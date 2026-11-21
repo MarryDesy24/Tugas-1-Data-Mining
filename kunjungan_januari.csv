@@ -1,0 +1,71 @@
+Visit_ID,Patient_ID,Department,Diagnosis_Category,Visit_Type,Visit_Date,Waiting_Time,Treatment_Cost
+VJ001,P0238,Pediatrics,Skin Disorder,Rawat Inap,2026-01-01,11,2759000
+VJ002,P0228,Ortopedi,Musculoskeletal,Rawat Jalan,2026-01-01,17,473000
+VJ003,P0216,PEDIATRICS,Gastrointestinal,Rawat Jalan,2026-01-01,22,278000
+VJ004,P0247,ent,,Rawat Jalan,2026-01-01,31,197000
+VJ005,P0227, Orthopedics,Musculoskeletal,Rawat Jalan,2026-01-01,36,485000
+VJ006,P0121,Neurology,NEUROLOGICAL,Rawat Jalan,2026-01-01,30,448000
+VJ007,P0033,Orthopedics,Musculoskeletal,Rawat Jalan,2026-01-02,,428000
+VJ008,P0136,internal medicine,Metabolic/Endocrine,Rawat Jalan,2026-01-03,14,405000
+VJ009,P0216,ENT,ENT Disorder,Rawat Jalan,2026-01-05,24,330000
+VJ010,P0158,internal medicine,Gastrointestinal,Rawat Inap,2026-01-05,16,4762000
+VJ011,P0152,,Allergy,Rawat Jalan,2026-01-05,20,307000
+VJ012,P0153,Internal Medicine,Gastrointestinal,Rawat Jalan,2026-01-07,18,423000
+VJ013,P0191,Cardiology,Cardiovascular,Rawat Jalan,2026-01-07,17,464000
+VJ014,P0246,Cardiology,Metabolic/Endocrine,Rawat jalan,2026-01-07,29,555000
+VJ015,P0114,Cardiology,cardiovascular,Rawat Inap,2026-01-07,32,7619000
+VJ016,P0028,Obstetrics,Maternal health,Rawat Inap,2026-01-08,11,13249000
+VJ017,P0262,Internal Medicine,gastrointestinal,Rawat Jalan,2026-01-08,50,515000
+VJ018,P0101,internal medicine,Infectious Disease,Rawat Jalan,2026-01-08,20,331000
+VJ019,P0220,Obstetrics,Maternal Health,Rawat Jalan,2026-01-08,40,419000
+VJ020,P0160,Orthopedics,Musculoskeletal,Rawat Jalan,2026-01-09,,409000
+VJ021,P0015,Penyakit Dalam,,Rawat Jalan,2026-01-09,49,504000
+VJ022,P0134,Internal Medicine,Gastrointestinal,Rawat Jalan ,2026-01-10,25,442000
+VJ023,P0007,Pediatrics,Gastrointestinal,Rawat Jalan,2026-01-10,11,287000
+VJ024,P0173,Pediatrics,Infectious Disease,Rawat jalan,2026-01-12,34,365000
+VJ025,P0273,Ortopedi,Injury/Trauma,RAWAT JALAN,2026-01-12,54,378000
+VJ026,P0132,Internal Medicine,Cardiovascular,Rawat Jalan,2026-01-12,54,366000
+VJ027,P0185,Internal Medicine,Metabolic/Endocrine,Rawat Jalan,2026-01-13,57,334000
+VJ028,P0012,ENT,ENT Disorder,Rawat Jalan,2026-01-13,51,324000
+VJ029,P0225,ENT  ,ENT Disorder,Rawat Jalan,2026-01-13,14,232000
+VJ030,P0103,Internal Medicine,Metabolic/Endocrine,Rawat Jalan,2026-01-13,59,394000
+VJ031,P0240,Neurology,Neurological,Rawat Inap,2026-01-14,28,4386000
+VJ032,P0298,Neurology,Neurological,Rawat Jalan,2026-01-15,9,528000
+VJ033,P0203,Internal Medicine,Gastro Intestinal,Rawat Jln,2026-01-15,34,371000
+VJ034,P0009,Cardiology,Metabolic/Endocrine,Rawat jalan,2026-01-15,24,461000
+VJ035,P0188,Dermatology,Allergy,Rawat jalan,2026-01-15,28,354000
+VJ036,P0161,ENT,Respiratory,Rawat Jalan,2026-01-16,51,414000
+VJ037,P0029,Cardiology,Cardiovascular,  Rawat Jalan  ,2026-01-16,14,543000
+VJ038,P0215,Internal Medicine,Metabolic/Endocrine,Rawat-Jalan,2026-01-16,28,398000
+VJ039,P0141,Obstetri,Maternal Health,Rawat Jalan,2026-01-20,8,545000
+VJ040,P0205,Internal Med,gastrointestinal,Rawat Jalan,2026-01-20,33,430000
+VJ041,P0079,Dermatology,Allergy,Rawat jalan,2026-01-20,12,449000
+VJ042,P0235,Pediatrics,Respiratory,Rawat Inap,2026-01-20,18,3833000
+VJ043,P0206,obstetrics,Maternal Health,Rawat Jalan,2026-01-21,37,464000
+VJ044,P0001,Internal Medicine,Respiratory,Rawat Jalan,2026-01-21,49,408000
+VJ045,P0249,Internal Med,Cardiovascular,Rawat Inap,2026-01-22,13,9119000
+VJ046,P0293,Orthopedics,Musculoskeletal,,2026-01-22,16,427000
+VJ047,P0033,Pediatrics,RESPIRATORY,Rawat Jalan,2026-01-22,24,431000
+VJ048,P0094,Neurology,neurological,Rawat Inap,2026-01-22,23,6402000
+VJ049,P0083,Internal Medicine,infectious disease,Rawat Jalan,2026-01-22,40,393000
+VJ050,P0157,Internal Medicine,Gastrointestinal,,2026-01-23,25,351000
+VJ051,P0020,Dermatolgy,Skin Disorder,Rawat Jalan,2026-01-23,25,392000
+VJ052,P0059,Internal Medicine,Metabolic/Endocrine,Rawat Jln,2026-01-24,81,460000
+VJ053,P0130,Internal Medicine,Infectious Disease,Rawat Jalan,2026-01-26,23,347000
+VJ054,P0044,ENT,ENT Disorder,Rawat Inap,2026-01-26,24,7274000
+VJ055,P0117,Penyakit Dalam,Gastrointestinal,Rawat Jln,2026-01-27,42,374000
+VJ056,P0140,Obstetrics,Maternal Health,Rawat Jalan,2026-01-27,12,491000
+VJ057,P0029,Obstetrics,Maternal Health,Rawat inap,2026-01-28,8,13010000
+VJ058,P0106,Pediatrics,Respiratory,Rawat-Jalan,2026-01-28,62,385000
+VJ059,P0033,Dermatology,Allergy,Rawat Jalan,2026-01-28,11,390000
+VJ060,P0102,Dermatology,Skin Disorder,Rawat Jln,2026-01-29,30,411000
+VJ061,P0239,internal medicine,Metabolic/Endocrine,Rawat Jalan,2026-01-29,44,408000
+VJ062,P0230,cardiology,Cardiovascular,Rawat jalan,2026-01-29,20,413000
+VJ063,P0178,ENT,Respiratory,Rawat Jln,2026-01-29,31,405000
+VJ064,P0011,,Metabolic/Endocrine,Rawat Jalan,2026-01-30,47,543000
+VJ065,P0194,Cardiology  ,Cardiovascular,Rawat Inap,2026-01-30,21,13988000
+VJ066,P0040,Neurology,Neurological,Rawat Jalan,2026-01-30,87,502000
+VJ067,P0270,ENT,ENT Disorder,Rawat Jalan,2026-01-31,30,288000
+VJ068,P0299,Cardiology,Cardiovascular,Rawat Jalan,2026-01-31,51,553000
+VJ069,P0210,Obstetrics,Maternal Health,Rawat Jalan,2026-01-31,33,
+VJ070,P0141,Obstetrics,Maternal Health,Rawat Inap,2026-01-31,12,

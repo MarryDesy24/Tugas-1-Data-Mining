@@ -1,0 +1,301 @@
+Visit_ID,Patient_ID,Patient_Name,Gender,Age,Blood_Type,Department,Diagnosis_Category,Visit_Type,Visit_Date,Blood_Pressure,Body_Temperature,Weight,Height,Waiting_Time,Consultation_Duration,Treatment_Cost,Satisfaction_Score
+V0001,P0006,Mega Julianto,Female,51,b,-,Musculoskeletal,Rawat Jalan,2026-01-01,131/85,36.2,67.4,154.0,15,15,25,5
+V0002,P0066,Indah Sulistyo,Perempuan,31,O,INTERNAL MEDICINE,Gastrointestinal,Rawat Jln,2026-01-01,119/74,,69.6,155.7,46,,417000,2
+V0003,P0140,Mega Yulianto,-,32,A,-,cardiovascular,Rawat Jalan,2026-01-01,145/93,35.5,71.1,-150.0,8,16,7500,
+V0004,P0190,Fajar Purnomo,M,31,B,dermatology,Skin Disorder,Rawat Jalan,2026-01-01,106/71,36.6,64.5,166.8,10,5,421000,4
+V0005,P0246,Imam Firmansyah,Male,71,A,Internal Medicine ,Cardiovascular,Rawat-Jalan,2026-01-01,126/69,36.6,,158.1,43,23,383000,3
+V0006,P0007,Retno Prasetyo,FEMALE ,13,A,Pediatrics, Infectious Disease,Rawat Jalan,2026-01-02,126/74,38.0,43.0,144.1,33,11,297000,3
+V0007,P0069, Dedi Mahendra,male,30,B,Internal Medicine,Infectious Diseas,Rawat Jalan,2026-01-02,129/79,38.3,76.8,169.3,72,19,412000,2
+V0008,P0087,Dedi Wijaya,M,31,a,Neurology,Neurological,Rawat jalan,2026-01-02,116/77,36.8,51.0,,17,21,476000,4
+V0009,P0096,Novi Basuki,Female,52,B,Dermatology,Skin Disorders,Rawat Inap   ,2026-01-02,116/78,36.6,,161.5,13,47,8956000,4
+V0010,P0256,Reza Sulistyo,Male,,a,Internal Med,Gastrointestinal,Rawat Jalan,2026-01-03,113/84,36.8,84.5,174.5,9,27,500000,5
+V0011,P0293,Wati Gunawan,Perempuan,,B,Internal Medicine,Unknown,Rawat jalan,2026-01-03,112/83,36.2,,158.4,47,19,441000,3
+V0012,P0012,Hari Wijaya,MALE,45,,ENT,ENT Disorder,Rawat-Jalan,2026-01-05,105/80,37.1,59.4,169.5,28,11,290000,4
+V0013,P0149,Joko Syahputra,Laki-laki,34,A,N/A,Neurological,Rawat Inap,2026-01-05,104/79,36.4,74.8,,10,140,8678000,4
+V0014,P0267,Rangga Susanto,M,40,b,Internal Medicine,INFECTIOUS DISEASE,Rawat Jalan,2026-01-05,131/76,38.0,76.2,167.0,240,30,461000,4
+V0015,P0178,Intan Permana,FEMALE,46,B,Ent,Respiratory,Rawat Jln,2026-01-06,122/80,38.3,62.8,159.5,35,9,362000,4
+V0016,P0264,rina darmawan,female,,O,Neurology,MENTAL HEALTH,Rawat Jalan,2026-01-06,128/81,36.9,52.9,160.0,14,23,601000,
+V0017,P0277,Maya Darmawan,F,37,A,Nerology,Neurological,rawat jalan,2026-01-06,127/75,37.2,68.5,160.3,36,16,511000,4
+V0018,P0053,Joko Setiawan,Male,36,A,Internal Medicine,Metabolic/Endocrine,Rawat jalan,2026-01-07,122/69,35.7,59.6,175.5,23,17,427000,4
+V0019,P0114,Doni Hidayat,M,39,B,ENT,Respiratori,Rawat Jalan,2026-01-07,125/72  ,38.4,55.8,170.8,-30,11,271000,4
+V0020,P0175,Indah Rachman,Perempuan,67,B,Cardiologi,Cardiovascular,Rawat Inap,2026-01-07,159/72,-5.0,67.0,153.7,9,55,10263000,4
+V0021,P0200,Andi Hartono, Male,31,O,ORTHOPEDICS   ,MUSCULOSKELETAL,Rawat Jalan,2026-01-07,101/65,36.9,75.6,179.4,22,13,385000,4
+V0022,P0039,Fitri Syahputra,Female,35,A,Obstetrics ,MATERNAL HEALTH,Rawat Jalan,2026-01-08,113/78,36.9,66.2,161.3,44,,477000,4
+V0023,P0129,Dina Handayani,F,10,B,pediatrics,Gastrointestinal,Rawat Jalan,2026-01-08,101/50,37.0,25.8,125.9,5,12,347000,5
+V0024,P0248,Indah Kurniawan, female,11,b,Dermatology,ALLERGY,RAWAT JALAN,2026-01-08,104/55,36.9,29.0,135.5,16,12,375000,5
+V0025,P0001,Andi Setiawan,MALE,,O,N/A,Metabolic/Endocrine,rawat jalan,2026-01-09,115/80,36.6,38.9,151.5,21,26,428000,5
+V0026,P0088,Ilham Ramadhan,MALE,27,B,Ortopedi,Musculoskeletal,Rawat Jln ,2026-01-09,133/66,36.5,69.2,172.1,16,17,,4
+V0027,P0243,Dian Suryanto   ,Female,23,O,CARDIOLOGY,N/A,Rawat Jalan,2026-01-10,131/86,,105.1,156.3,33,13,518000,4
+V0028,P0020,Citra Setiawan,female,69,A,Cardiology,Cardiovascular,Rawat Jalan,2026-01-11,146/99,,54.0,155.1,17,17,453000,4
+V0029,P0112,Ratna Darmawan,f,70,O,neurology,Mental Health,Rawat Jalan,2026-01-11,139/75,36.4,48.9,162.5,38,18,616000,4
+V0030,P0003,Ahmad Pratama,Male,8,AB,Orthopedics,Musculoskeletel,Rawat Inp,2026-01-12,104/63,36.6,19.1,110.1,38,58,58000000,10
+V0031,P0055,ilham widodo,Male,75,O,Orthopaedics,Musculoskeletal,Rawat-Jalan  ,2026-01-12,147/80,36.7,52.0,159.7,14,15,399000,5
+V0032,P0115,Galih Purnomo,M,9,A,ENT,ENT Disorder,Rawat Jalan,2026-01-12,86/61,36.8,24.9,117.7,17,8,360000,5
+V0033,P0072,Eko Pratama,Male,0,A,Internal Medicine,Respiratory,Rawat Inap,2026-01-13,97/62,37.6,5.9,59.9,14,28,4910000,4
+V0034,P0077,Putri Darmawan,Female,63,b,Internal Medicine,RESPIRATORY,Rawat Jalan,2026-01-13,109/74,38.6,54.2,158.3,26,,382000,5
+V0035,P0098,Ayu Hakim,female,60,A,Neurology,Neurological,Rawat Jalan,2026-01-13,106/74,36.5,54.5,157.3,33,30,697000,4
+V0036,P0219,Dina Darmawan,Perempuan,47,AB,ENT,ENT Disorder,Rawat-Jalan,2026-01-13,112 / 73,37.0,59.4,154.7,,10,345000,99
+V0037,P0281,Galih Rachman,Male,71,B,Orthopedics,musculoskeletal,  Rawat Inap  ,2026-01-13,131/76,36.6,44.5,162.8,17,25,12909000,5
+V0038,P0045,Teguh Pangestu,Male,38,,THT,Respiratory,Rawat Jalan,2026-01-14,117/79,36.2,83.9,173.0,7,9,,5
+V0039,P0058,WATI   SANTOSO,female,61,O,ent,Respiratory,RAWAT JALAN,2026-01-14,127/83,38.9,57.5,155.4,69,55,253000,5
+V0040,P0090,Yusuf Handayani,N/A,48,O,Orthopedics,Musculoskeletal,Rawat Jalan,2026-01-14,127/89,37.0,62.6,166.9,24,17,578000,4
+V0041,P0102,Siti Sulistyo,  f  ,45,O,internal medicine, Metabolic/Endocrine,Rawat Inap,2026-01-14,125/81,36.2,58000.0,148.3,14,44,3699000,3
+V0042,P0185,Bayu Widodo,Male,59,B,CARDIOLOGY,Cardiovasculer,Rawat Jalan,2026-01-14,139/93,,62.9,170.3,27,18,798000,4
+V0043,P0188,Ratna Suryanto,F,40,O,Obstetrics,MATERNAL HEALTH,Rawat Jalan,2026-01-14,133/77 mmHg ,36.9,56.9,0.0,31,12,345000,5
+V0044,P0018,Nur Maulana,female,67,B,neurology,Neurologic,Rawat Inap,2026-01-15,132/85,36.5,44.1,151.2,16,36,9528000,5
+V0045,P0064,Dewi Prasetyo,Female,72,O,ENT,Respiratory,Rawat Jalan,2026-01-15,146/93,37.4,45.3,156.5,17,21,470000,4
+V0046,P0119,Bayu Zulkarnain,Male,46,B,Dermatology  ,Unknown,Rawat Jln,2026-01-15,115/70,36.7,93.2,176.5,14,12,451000,4
+V0047,P0135, Indah Santoso,Perempuan,73,b,Orthopedics,Injury/Trauma,Rawat Jalan,2026-01-15,139/84,36.8,72.0,159.6,36,11,584000,
+V0048,P0193, FINA FIRMANSYAH,FEMALE,42,B,Internal Medicine, Metabolic,Rawat Jalan,2026-01-15,120/72,36.6,56.1,158.9,27,15,358000,4
+V0049,P0212,Ani Firmansyah,f,25,o,Obstetri,maternal health,Rawat   jalan,2026-01-15,104/72,37.0,60.2,163.0,22,24,509000,5
+V0050,P0215,Tika Ramadhan,F,33,B,Neurology,Neurological,Rawat Jln,2026-01-15,95/70,37.6,35.4,162.0,56,17,476000,3
+V0051,P0275,Hari Julianto,m,73,B,Internal Medicine,respiratory,Rawat inap,2026-01-15,112/87,,59.0,162.8,25,57,7379000,4
+V0052,P0024,Yusuf Ramadhan,Male,29,A,INTERNAL MEDICINE,CARDIOVASCULAR,Rawat Jln,2026-01-16,142/81,36.2,63.2,164.3,,18,442000,4
+V0053,P0044,Novi Permana,f,15,O,,Neurological,Rawat Jalan,2026-01-16,125/70,36.0,47.0,155.2,29,23,508000,
+V0054,P0057,Andi Susanto,Male,22,b,Penyakit Dalam,Cardiovascular  ,Rawat Jalan,2026-01-16,137/86,36.2,62.2,163.8,15,23,420000,5
+V0055,P0079,Fajar Cahyono  ,M,49,A,Cardiology,Cardiovascular,rawat jalan,2026-01-16,148/91,36.4,51.9,1.62,17,600,448000,3
+V0056,P0163,  Nia Santoso  ,FEMALE,69,B,orthopedics,Musculoskeletal,Rawat Jalan,2026-01-16,0/0,37.4,37.1,143.0,52,13,471000,5
+V0057,P0174,Bayu Lestari,Male,66,O,Neurologi,Neurological,Rawat Jalan  ,2026-01-16,144/85,36.7,58.4,160.3,42,18,685000,4
+V0058,P0201,Siti Kurniawan,Female,66,B,Internal Medicine,gastrointestinal,Rawat Jalan,2026-01-17,98/73,36.5,54.9,148.9,56,19,426000,3
+V0059,P0222,Fina Purnomo,Female,35,A,Dermatology,Skin Disorder,Rawat jalan,2026-01-17,117/77,36.5,67.0,163.0,35,11,341000,
+V0060,P0002,  Eka Purnomo  ,Female,12,O,ENT,ENT DISORDER,Rawat Jalan,2026-01-19,94/65,36.6,35.5,137.7,8,14,335000,
+V0061,P0073,FIKRI SETIAWAN,Male,34,A,Cardiologi,Cardiovasculer,Rawat Jalan,2026-01-19,127/83,37.0,72.9,170.9,39,19,519000,3
+V0062,P0127,FINA WIJAYA,FEMALE,16,A,Orthopedics,Musculoskeletal   ,Rawat Jalan,2026-01-19,125/69,36.3,46.8,164.3,15,19,479000,4
+V0063,P0226,Siti Permana,Female,36,0,Orthopedics,musculoskeletal,Rawat Jalan,2026-01-19,-,,59.9,150.5,21,17,444000,4
+V0064,P0251,WULAN PRATAMA,Female,,a,Internal Medicine,metabolic/endocrine,  Rawat jalan  ,2026-01-19,100/75,36.6,60.9,146.7,19,23,499000,5
+V0065,P0290,Mega Darmawan,F,37,o,Internal Medicine,gastrointestinal,RAWAT INAP,2026-01-19,119/73,36.7,51.1,150.0,16,36,5939000,5
+V0066,P0295,Dina Saputra,FEMALE,40,A,Internal Medicine ,Metabolic/Endocrine,Rawat Jalan,2026-01-19,104/62,99.5,41.3,143.0,45,20,361000,4
+V0067,P0036,Dedi Susanto,Male,62,Ab,Cardiology,Cardiovascular,Rawat-Jalan ,2026-01-20,131/95,37.1,55.4,159.3,180,19,520000,4
+V0068,P0167,Wahyu Kusuma,Male,,O, ENT, RESPIRATORY,RAWAT INAP,2026-01-20,110/79,38.7,65.3,168.9,19,24,6208000,4
+V0069,P0169,Rina Hakim,Female,70,A,Cardiology,Cardiovascular,Rawat Jalan,2026-01-20,131/89,36.8,64.0,161.8,9,10,422000,5
+V0070,P0014,Novi Rachman,Female,47,A,INTERNAL MEDICINE,Metabolic, Rawat Jalan,2026-01-21,124/80,36.7,51.2,157.1,36,18,397000,4
+V0071,P0105,Teguh Handayani,Male,38,o,Orthopaedics,Musculoskeletal,Rawat Jalan,2026-01-21,-,36.7,147.4,168.4,13,19,466000,5
+V0072,P0156,Dedi Aditya,male,30,A,  Neurology  ,Neurological,Rawat jalan,2026-01-21,  116/81  ,36.7,69.4,167.3,1440,18,454000,5
+V0073,P0159,Dina Kusuma,female,41,O,Cardiology,Cardiovascular,Rawat Jalan,2026-01-21,129/89,35.9,72.9,162.2,,18,433000,
+V0074,P0179,Galih Basuki,Laki-laki,65,B,Cardilogy,Metabolic,Rawat Jalan,2026-01-21,112/79,36.5,63.9,163.4,,26,593000,4
+V0075,P0038,Sari Yulianto,Perempuan,59,A,  internal medicine  ,INFECTIOUS DISEASE,Rawat Jalan,2026-01-22,121/76,38.3,59.1,160.0,49,29,344000,3
+V0076,P0111,Hadi Cahyono,Laki-laki,62,A,orthopedics,MUSCULOSKELETAL,Rawat-Inap,2026-01-22,117/89   ,36.6,72.5,162.0,15,47,11259000,4
+V0077,P0239,Ani Zulkarnain,f,64,b,ORTHOPEDICS,Musculoskeletal,Rawat Jalan,2026-01-22,145/89,36.2,64.0,162.8,18,11,458000,4
+V0078,P0288,Novi Rahmawati,f,32,O,Cardiology, Cardiovascular,Rawat   Jalan,2026-01-22,134/108,36.8,60.5,155.1,51,21,573000,4
+V0079,P0297,Maya Wibowo,Female,17,O,Orthopedics,Musculoskeletal,Rawat Jalan,2026-01-22,110/74,36.6,38.5,150.4,26,16,,4
+V0080,P0048,Citra Firmansyah,-,23,B,internal medicine,Infectious Disease, rawat jalan,2026-01-23,113/82,37.5,41.6,147.6,41,25,320000,4
+V0081,P0173,Eka Pratama,,10,A  ,Orthopedics,Musculoskeletal,rawat jalan,2026-01-23,101/51,36.7,32.5,128.1,29,13,449000,5
+V0082,P0198,Indah Nugroho   ,FEMALE,51,o,dermatology,Skin Disorder,Rawat Jalan,2026-01-23,118/84,36.5,53.6,145.7,18,10,385000,5
+V0083,P0033,Tika Zulkarnain,-,16,b,Orthopaedics,Musculoskeletal,Rawat Jalan,2026-01-24,121/82,37.1,48.3,152.7,,17,503000,4
+V0084,P0130,Maya Irawan,Female,0,B,Internal Medicine,Gastrointestinal,Rawat Jalan,2026-01-24,114/65,36.7,4.3,,45,10,380000,3
+V0085,P0164,Imam Handayani,M,40,a,Cardiology,Cardiovasculer,Rawat Jalan,2026-01-24,137/82,36.5,84.5,168.2,30,19,465000,4
+V0086,P0138,Galih Wijaya,m,44,B,DERMATOLOGY,Skin Disorder,Rawat Jalan,2026-01-26,114/82,36.6,58.8,164.5,-60,13,408000,4
+V0087,P0150,Hendra Aditya, Male,38,B,Cardiology,cardiovascular,Rawat Jalan,2026-01-26,117/92,36.8,69.4,166.0,12,17,601000,5
+V0088,P0216,Siti Syahputra,Perempuan,10,O,PEDIATRICS,Infectious Disease,Rawat Jln,2026-01-26,96/57,,28.6,123.6,14,8,418000,
+V0089,P0253,Sari Hartono,Female,4,A,Pediatrics,Skin Disorder,rawat jalan,2026-01-26,94/55,36.5,71500.0,93.6,34,18,372000,4
+V0090,P0082,Ahmad Pangestu,male,32,O,Cardiology,cardiovascular,Rawat Jalan,2026-01-27,  144/86  ,37.1,60.9,170.6,61,11,395000,3
+V0091,P0093,Fajar Suryanto,Male,8,b,ENT   ,ENT DISORDER,Rawat Jln ,2026-01-27,106/65,36.4,,115.5,,5,213000,5
+V0092,P0180,Ilham Firmansyah,Male,66,O,INTERNAL MEDICINE,Infectious Diseas, Rawat Inap,2026-01-27,123/78,38.4,42.4,164.7,18,59,9239000,5
+V0093,P0157,Nia Ramadhan,F,70,A,orthopedics,Musculoskeletal,Rawat-Jalan,2026-01-28,145/75,36.7,61.8,165.2,22,14,456000,4
+V0094,P0211,Putri Sulistyo,Female,38,Unknown,Internal Medicine,Respiratory,Rawat Jalan,2026-01-28,118/80,38.9,53.0,149.2,37,23,420000,4
+V0095,P0257,Teguh Firmansyah   ,M,6,B,neurology,Neurological,Rawat Jalan,2026-01-28,96/55,36.9,18.3,105.3,35,18,475000,5
+V0096,P0046,Indah Pratama,Female,73,AB,CARDIOLOGY,Cardiovascular,Rawat Inap,2026-01-29,139/94,37.2,50.7,156.6,11,39,8115000,5
+V0097,P0089,Ahmad Santoso,Male,41,A,Penyakit Dalam,Gastrointestinal,Rawat Jln,2026-01-29,108/77,36.8,62.4,160.5,49,-25,401000,3
+V0098,P0131,Galih Cahyono,M,16,AB,Orthopedics ,Musculoskeletal,Rawat Jalan,2026-01-29,122/68,37.1,44.4,159.0,28,10,507000,3
+V0099,P0176,Rudi Cahyono,Male,18,O,Cardilogy  ,CARDIOVASCULAR,Rawat Jalan ,2026-01-29,130/76,36.8,70.2,167.7,165,22,427000,
+V0100,P0227,Ayu Darmawan,female,18,-,Obstetrics,Maternal Health,RAWAT JALAN,2026-01-29,118/65,37.0,,154.9,10,15,336000,4
+V0101,P0235,Lestari Suryanto ,Perempuan,10,O,Pediatrics,Respiratory,Rawat Jalan,2026-01-29,98/53,38.7,27.3,132.1,37,16,307000,4
+V0102,P0279,Lestari Sulistyo,FEMALE,45,o,Obstetrik,Maternal Health,Rawat Jalan,2026-01-29,125/75,36.7,62.7,159.1,28,20,516000,4
+V0103,P0026,Sri Maulana,Female,23,A,obstetrics,Maternal Health,Rawat Inap,2026-01-30,134/61,36.2,61.4,164.5,8,38,45000000,4
+V0104,P0063,Budi Hidayat,Laki-laki,60,B,Internal Medicine   ,Cardiovascular,Rawat Jalan,2026-01-30,143/87,37.1,69.5,175.1,7,25,454000,4
+V0105,P0207,Nur Firmansyah,F,15,b,Internal Med,Metabolic/Endocrine,Rawat-Inap,2026-01-30,123/74,,42.7,154.8,38,45,6878000,
+V0106,P0240,Budi Maulana,Male,,A,Cardilogy,cardiovascular,Rawat Jalan,2026-01-30,132/95,36.2,62.2,159.9,19,19,,5
+V0107,P0265,Putri Purnomo,female,72,A  ,cardiology,Cardiovascular,Rawat Jalan,2026-01-31,161/95,36.4,44.2,139.7,12,12,355000,3
+V0108,P0298,HENDRA LESTARI,Male,60,A,internal medicine,Metabolic,Rawat Inap,2026-01-31,126/68,36.5,59.2,161.9,17,52,4767000,5
+V0109,P0052,Andi Hakim,m,250,O, Nerology,neurological,  Rawat Jalan  ,2026-02-02,105/80  ,36.8,64.7,176.3,39,20,583000,4
+V0110,P0071,Indra Widodo,-,11,O,Pediatrics,Infectious Diseas,Rawat-Inap,2026-02-02,95/66,37.7,30.6,130.0,,24,7685000,5
+V0111,P0155,Rudi Mahendra,m,0,B,ENT,Respiratory,Rawat Jalan,2026-02-02,N/A,37.0,650.0,57.4,42,6,335000,3
+V0112,P0192,Hendra Rahmawati,Male,,B,Pediatrics,Infectious Disease,rawat jalan,2026-02-02,100/63,102.2,9.2,76.3,7,7,290000,5
+V0113,P0231,Hendra Julianto,m,37,B,CARDIOLOGY,Cardiovascular,Rawat   Jln,2026-02-02,134/75,36.6,65.0,170.2,28,12,555000,4
+V0114,P0047,Sari Purnomo,Perempuan,20,AB,ENT,ENT Disorder,Rawat Jln,2026-02-03,98/73,36.3,42.1,146.5,10,14,446000,5
+V0115,P0075,Wulan Wijaya,Female,31,,orthopedics,-,rawat jalan,2026-02-03,129/72,,55.2,140.8,17,14,395000,4
+V0116,P0142,Ayu Maulana,Female,72,AB,CARDIOLOGY ,Cardiovascular,Rawat   Inap,2026-02-03,50/150,36.9,54.0,149.5,12,35,15396000,5
+V0117,P0209,Eko Santoso,male,76,O,Orthopedics,Musculoskeletal,Rawat Jalan  ,2026-02-03,119/94,36.8,64.1,168.4,9,11,529000,4
+V0118,P0218,Retno Maulana,Perempuan,8,A,Pediatrics,Infectious Disease,Rawat Jln,2026-02-03,88/61,36.7,20.8,112.2,38,13,287000,3
+V0119,P0015,Lestari Kusuma,f,46,A,Penyakit Dalam,respiratory,RAWAT JALAN,2026-02-04,115/77,36.5,75.7,164.2,29,19,450000,4
+V0120,P0040,Reza Darmawan,Male,67,O,Dermatology,Skin Disorder,Rawat   Jalan,2026-02-04,127/76,36.9,65.3,167.2,31,13,396000,4
+V0121,P0195,Citra Prasetyo,FEMALE,67,AB,Dermatologi,Skin Disorder,Rawat Jalan,2026-02-04,140/82,36.9,56.8,163.4,30,5,357000,3
+V0122,P0224,Dian Mahendra,Female,10,a,Dermatology,-,Rawat Jalan,2026-02-04,91/66,36.9,30.5,125.2,8,15,366000,5
+V0123,P0233,Yuni Firmansyah,F,73,B ,INTERNAL MEDICINE,Metabolic,Rawat Jalan,2026-02-04,119/82,36.6,46.4,144.0,210,14,358000,2
+V0124,P0068,Imam Syahputra,Male,73,O,-,MUSCULOSKELETAL,Rawat Jalan,2026-02-05,N/A,36.7,70.2,163.3,9,13,399000,4
+V0125,P0146,Fitri Cahyono,Female,98,A,  Cardiology  ,Cardiovasculer,Rawat Jln,2026-02-05,148/85,,55.3,5.0,50,17,355000,4
+V0126,P0189,wulan   cahyono,Female,78,O,Neurology,mental health,Rawat Jalan,2026-02-05,130/88,36.5,56.1,146.7,15,26,515000,4
+V0127,P0269,Nur Ramadhan,Female,35,O, Obstetrics,Gynecological,Rawat Jalan,2026-02-05,117-82,36.6,,160.5,16,-10,484000,4
+V0128,P0028,Maya Purnomo,Female,18,B,neurology,Neurologic,Rawat Inap,2026-02-06,112/66,37.0,66.7,151.4,22,28,8459000,4
+V0129,P0054,Hendra Yulianto,m,7,O,Paediatrics,Respiratori,Rawat jalan   ,2026-02-06,94/69,38.9,24.3,111.6,34,14,398000,4
+V0130,P0091,Eka Sulistyo,Perempuan,35,a,Dermatology,Skin Disorder,Rawat Jalan,2026-02-06,116/75,36.6,58.0,155.8,20,13,357000,3
+V0131,P0092,Reza Syahputra,MALE  ,14,B,  Orthopedics  ,Musculoskeletal,rawat inap,2026-02-06,107/82,36.7,-5.0,152.9,16,39,,4
+V0132,P0258,Wulan Syahputra,Perempuan,34,O,Obstetrics,Maternal Health,Rawat Inap,2026-02-06,125/82,36.6,77.2,166.6,10,53,13643000,5
+V0133,P0168,Nur Purnomo,Female,33,o,Internal Medicine,Respiratori,Rawat Jalan,2026-02-07,120/74,38.6,42.4,159.4,30,13,384000,4
+V0134,P0191,Fikri Kusuma,Male,24,B,Cardilogy,CARDIOVASCULAR,Rawat Jln,2026-02-07,113/88,36.9,60.1,1.58,16,12,422000,5
+V0135,P0108,Wahyu Susanto,Male,23,B,Internal Medicine,Infectious Disease ,Rawat Jalan,2026-02-09,107/68,37.7,71.6,167.5,17,,310000,3
+V0136,P0230,Reza Pangestu,male,35,O,Orthopedics,INJURY/TRAUMA,Rawat-Jalan,2026-02-09,104/79,36.8,54.8,165.2,21,21,485000,
+V0137,P0244,Nur Syahputra,  Female  ,26,B,Neurology,Neurological,Rawat Jalan,2026-02-09,125/76,36.7,64.9,160.8,4,19,603000,5
+V0138,P0260,Agus Irawan,Laki-laki,16,B ,Cardiology,Cardiovascular,Rawat Jalan,2026-02-09,106/75,36.6,51.9,161.4,29,16,603000,0
+V0139,P0274,Nur Kurniawan ,Female   ,16,AB,ENT,,Rawat Jalan,2026-02-09,111/77,37.5,45.4,144.4,26,15,438000,4
+V0140,P0013,Rizky Ramadhan,Male,18,b,Internal Medicine,Metabolic/Endocrine,rawat inap,2026-02-10,116/83,36.6,64.1,162.1,22,125,2891000,4
+V0141,P0241,Tika Pratama,Female,62,O, Dermatology,Skin Disorder,Rawat Jalan,2026-02-10,128/90 ,36.4,53.4,157.1,20,6,394000,4
+V0142,P0280,Novi Setiawan,Female,18,,NEUROLOGY,Neurological,Rawat Inap,2026-02-10,118/86,36.2,74.7,162.7,20,52,11172000,5
+V0143,P0032,Slamet Maulana,Male,52,O,  Cardiology  ,Cardiovascular  ,Rawat-Inap,2026-02-11,146/89,36.7,79.0,169.3,14,25,5617000,4
+V0144,P0113,Intan Hartono,Female,43,O,INTERNAL MEDICINE,Gastrointestinal,Rawat Jalan,2026-02-11,124/85,37.1,0.0,154.9,41,,461000,6
+V0145,P0152,Wahyu Purnomo,male,40,A,neurology ,Neurologic,Rawat Jalan,2026-02-11,128/72 mmHg,36.6,63.4,168.5,36,27,557000,4
+V0146,P0158,Ahmad Setiawan,MALE,66,B,Cardilogy,cardiovascular,Rawat Jln,2026-02-11,151/94  ,36.9,57.5,172.0,66,17,530000,4
+V0147,P0214,Fitri Susanto,Female,41,AB,Orthopedics,Musculoskeletal,Rawat Inap,2026-02-11,112/75,37.0,50.3,158.8,25,54,12425000,5
+V0148,P0238,Sri Purnomo,F,14,AB,Dermatology,Skin Disorder,Rawat Jalan,2026-02-11,119/83,36.9,41.6,148.5,26,13,300000,5
+V0149,P0266,Nia Permana,FEMALE,68,B,Internal Med,Gastro Intestinal,Rawat Jalan,2026-02-11,113/69,36.4,62.1,148.0,195,21,312000,4
+V0150,P0128,  Wahyu Wibowo  ,  male  ,24,N/A,cardiology,Metabolic/Endocrine,Rawat-Jalan,2026-02-12,103/74,36.3,51.1,173.2,31,19,536000,4
+V0151,P0153,intan suryanto,Perempuan,54,b,Internal Medicine,infectious disease,Rawat Jalan,2026-02-12,131/68,37.2,56.9,157.7,20,15,475000,4
+V0152,P0271,Doni Hakim,Male,22,O,dermatology,Skin Disorder,Rawat Jalan,2026-02-12,124/62,36.6,77.2,174.8,20,14,373000,3
+V0153,P0287,Ayu Saputra,f,8,A,Pediatrics,Infectious Disease,Rawat Jalan,2026-02-12,101/67,39.0,25.1,119.5,35,13,404000,2
+V0154,P0010,Joko Prasetyo,Male,18,A,ORTHOPEDICS,Musculoskeletal,rawat inap,2026-02-13,107/67,36.1,78.2,173.9,31,100,12296000,4
+V0155,P0062,Rina Yulianto,female,7,O,PEDIATRICS,Infectious Disease,Rawat Jalan,2026-02-13,104/60,38.0,,110.3,19,11,,
+V0156,P0097,Slamet Hartono,,21,Ab,Dermatologi,Skin Disorder,rawat jalan ,2026-02-13,134/77,37.0,55.7,166.2,22,17,359000,5
+V0157,P0177,Imam Julianto,male,10,O,Pediatrics,Infectious Disease,Rawat Jalan,2026-02-13,83/58,,31.8,,36,13,267000,4
+V0158,P0205,Putri Irawan,Female,29,B,Penyakit Dalam,Gastrointestinal,Rawat-Jalan,2026-02-13,-,36.9,42.7,155.3,67,21,435000,3
+V0159,P0011,Ayu Zulkarnain,Female,38,O,Obstetrics,Maternal health  ,Rawat inap,2026-02-14,120/63,37.0,-20.0,158.4,44,44,38500000,4
+V0160,P0094,Nur Darmawan,Female,66,b,Internal Medicine,gastrointestinal,Rawat Jalan,2026-02-14,118/72,36.9,69.8,161.1,37,,363000,5
+V0161,P0272,Dina Pangestu,F,12,O,Dermatology, Skin Disorder,  Rawat Jalan  ,2026-02-14,106/52,36.4,32.4,141.7,38,11,380000,4
+V0162,P0237,Rudi Wijaya,Male,68,AB,orthopedics,Injury,RAWAT JALAN,2026-02-15,125/88,36.8,68.2,171.4,24,16,482000,5
+V0163,P0080,Indah Mahendra,f,31,0,orthopedics  ,Musculoskeletel,Rawat Jalan,2026-02-16,108/73,36.4,62.8,167.9,62,19,560000,2
+V0164,P0143,Indra Utami,Male,51,O,ent,ENT disorder,Rawat Jalan,2026-02-16,129/87,37.1,79.8,174.3,25,5,330000,5
+V0165,P0213,Hadi Irawan,Male,28,N/A,Neurology,Unknown,Rawat Jalan,2026-02-16,116/66,36.5,71.0,179.3,4,19,641000,4
+V0166,P0099,Yuni Lestari,Female,57,A,Orthopedics,Musculoskeletel,Rawat Jalan,2026-02-18,126/79,36.7,60.6,165.0,24,9,419000,5
+V0167,P0124,Fitri Handayani,Perempuan,18,B,Penyakit Dalam,Gastro Intestinal,Rawat Jalan,2026-02-18,121/80,37.1,117.3,156.3,12,20,426000,5
+V0168,P0019,Ani Rahmawati,Perempuan,33,O,Unknown,musculoskeletal,Rawat-Jalan,2026-02-19,117/75,36.5,41.5,147.4,19,21,507000,4
+V0169,P0074,Fikri Maulana,Laki-laki,36,-,ENT,respiratory,Rawat Jalan,2026-02-19,106/77,37.5,,162.6,41,7,320000,4
+V0170,P0109,Ani Irawan,-,7,B,pediatrics   ,Gastrointestinal,Rawat-Jalan,2026-02-19,98/61,98.6,,108.1,61,20,423000,3
+V0171,P0202,Wati Ramadhan,Perempuan,30,a,Internal Medicine,Gastrointestinal,Rawat-Inap,2026-02-19,106/56,36.6,61.1,155.2,23,50,6336000,4
+V0172,P0254,EKO UTAMI,M,18,b,Unknown,Injury/Trauma,Rawat Jalan,2026-02-19,128/73,36.8,88.9,175.1,41,70,398000,4
+V0173,P0021,Dedi Suryanto,Male,20,0,INTERNAL MEDICINE,Respiratory,RAWAT JALAN,2026-02-20,124/60,38.0,67.4,170.3,30,12,,4
+V0174,P0133,Wati Lestari,Female,16,B,Ortopedi,Musculoskeletel,Rawat Jalan,2026-02-20,101/76,37.2,48.3,146.1,15,15,560000,5
+V0175,P0206,Nia Lestari,Female,43,o,neurology,Mental Health,Rawat jalan,2026-02-20,137/81,36.8,53.6,155.6,15,17,638000,
+V0176,P0242,Fajar Julianto,Male  ,14,a,Pediatrics  ,Infectious Disease,Rawat Jalan,2026-02-20,124/70,37.8,51.1,154.0,30,7,286000,5
+V0177,P0282,Hendra Saputra,MALE,0,A,THT,ENT Disorder, Rawat Jalan,2026-02-20,99/71,36.9,4.5,53.8,17,19,368000,4
+V0178,P0060,SITI IRAWAN,Female,47,B,Penyakit Dalam,Respiratory,Rawat-Inap,2026-02-21,118/76,37.9,63.1,154.9,18,900,4971000,4
+V0179,P0116,Budi Anggraini,Male,-3,A,CARDIOLOGY,Metabolic/Endocrine,Rawat jalan,2026-02-23,123/62,36.6,53.8,163.9,43,60,500000,4
+V0180,P0122,Ani Hidayat,F,73,A,orthopedics,Musculoskeletal,Rawat-Inap,2026-02-23,118/88,36.3,52.7,160.5,11,26,14884000,5
+V0181,P0126,Novi Saputra,Female,60,b,Cardiology,metabolic/endocrine,Rawat Inap,2026-02-23,140/77,36.6,67.6,168.8,4,73,8238000,5
+V0182,P0276,Hari Sulistyo,male,35,B,ent,RESPIRATORY,Rawat Jalan,2026-02-23,111/78 ,38.5,52.5,171.2,18,18,256000,4
+V0183,P0043,Ani Lestari  ,Female,33,A   ,Obstetrics,Maternal Health,Rawat Jalan ,2026-02-24,109/84,37.4,64.9,163.2,8,24,489000,5
+V0184,P0022,Imam Widodo,Male,32,a,cardiology,Cardiovascular,Rawat Jalan,2026-02-25,133/78,36.6,84.7,173.1,75,17,531000,3
+V0185,P0132,Galih Mahendra,Male,4,0,Pediatrics,Skin Disorder,Rawat Jalan,2026-02-25,91/57,36.7,16.4,94.3,33,14,338000,4
+V0186,P0184,Novi Hidayat,F,26,A,Obstetrics,MATERNAL HEALTH,Rawat Jalan,2026-02-25,99/74,36.8,48.9,155.8,53,,407000,4
+V0187,P0225,Rina Aditya,F,44,O,Internal Medicine,Infectious Disease,Rawat Inap  ,2026-02-25,109/82,38.0,73.4,157.5,3,45,5706000,
+V0188,P0285,Dian Kurniawan,Female,43,a, ENT,RESPIRATORY,rawat jalan,2026-02-25,114/68,38.6,61.9,156.3,,18,329000,5
+V0189,P0086,Eko Kurniawan,M,17,O,Orthopedics,Injury/Trauma,Rawat Jalan,2026-02-26,117/90,36.9,54.9,163.3,14,9,473000,4
+V0190,P0095,Hari Permana,m,47,Ab,Neurology,neurological,Rawat Jalan,2026-02-26,124/74,36.8,73.5,163.5,16,21,,5
+V0191,P0139,Rina Purnomo,FEMALE,30,b,Internal Medicine,Infectious Diseas, Rawat Jln,2026-02-26,127/76,37.4,50.2,152.1,17,16,461000,5
+V0192,P0148,Reza Santoso,MALE,2,o,,,Rawat jalan,2026-02-26,110/66,38.4,11.8,83.8,11,14,344000,5
+V0193,P0162,Ani Utami,Female,70,B,Cardiology,Cardiovasculer,Rawat Inp,2026-02-26,141/110,36.7,51.9,153.8,48,64,11909000,4
+V0194,P0196,Indra Prasetyo,MALE,21,A,Internal Medicine,gastrointestinal,Rawat-Jalan,2026-02-26,110/82,36.8,70.2,163.2,11,25,554000,4
+V0195,P0292,Rizky Pangestu,M,8,,Pediatrics,respiratory,Rawat Jalan,2026-02-26,113/71,37.2,20.2,114.0,30,8,297000,4
+V0196,P0037,Indra Mahendra,Male,2,O,Pediatrics,Gastro Intestinal,Rawat Jalan,2026-02-27,105/66,36.4,10.3,83.8,39,15,292000,4
+V0197,P0289,Mega Gunawan,Female,71,A,Cardilogy,Cardiovasculer,Rawat Jalan,2026-02-27,163/91,37.1,64.1,154.7,43,21,509000,3
+V0198,P0070,Ayu Anggraini,Female,61,a,ent,ENT Disorder,Rawat Inap,2026-02-28,136/85,36.9,58.7,169.0,9,47,2538000,4
+V0199,P0236,Dina Purnomo,FEMALE,65,b,Internal Medicine,Metabolic/Endocrine,Rawat Jalan,2026-03-01,121/90,36.9,38.1,148.8,27,25,511000,4
+V0200,P0083,Dimas Hakim  ,Male,15,0,Pediatrics,  Respiratory  ,rawat jalan,2026-03-02,107/70,37.2,52.6,155.7,19,12,333000,4
+V0201,P0103,Ratna Basuki,female,18,-,Cardiology,CARDIOVASCULAR,Rawat Inap,2026-03-02,150/91,36.8,62.9,160.2,18,49,4439000,4
+V0202,P0134,Wahyu Gunawan,Male,18,AB,E.N.T,Respiratory,Rawat-Jalan,2026-03-02,104/69,38.3,59.9,148.9,17,8,286000,4
+V0203,P0220,rina gunawan,Female  ,34,B   ,Cardiology,CARDIOVASCULAR,Rawat Jalan,2026-03-02,156/74,36.8,51.0,143.8,98,17,617000,2
+V0204,P0255,Siti Julianto,Female,101,A,E.N.T,Respiratory,Rawat-Jalan,2026-03-02,,37.9,48.8,156.6,5,11,-100000,4
+V0205,P0259,Lestari Lestari,Female,43,a,neurology,Neurologic,Rawat Jalan   ,2026-03-02,124/79,36.4,74.2,161.6,24,21,514000,4
+V0206,P0008,arif cahyono,M,37,a,Internal Medicine,Infectious Diseas,Rawat Jalan,2026-03-03,108/68,37.9,67.5,165.5,26,22,476000,
+V0207,P0023,Siti Saputra,female,17,A,ENT,ENT Disorder  ,Rawat jalan,2026-03-03,300/20,36.7,47.4,155.0,22,13,344000,4
+V0208,P0042,Indah Hidayat  ,Female,35,AB,Internal Medicine,Gastrointestinal,rawat jalan,2026-03-03,  101/69  ,36.7,62.5,166.8,29,18,482000,4
+V0209,P0204,Slamet Wibowo,m,,b,Neurology,,RAWAT JALAN,2026-03-03,120/73,36.7,65.7,167.0,28,21,473000,4
+V0210,P0084,Slamet Aditya,MALE,13,AB,Pediatrics,Infectious Disease,RAWAT JALAN ,2026-03-04,104/70,37.9,37.8,144.8,19,11,366000,4
+V0211,P0283,siti prasetyo,  female  ,16,A,ent,ENT disorder,Rawat Jalan,2026-03-04,136/90,36.7,50.6,152.4,46,5,326000,3
+V0212,P0067,Dian Sulistyo,Female,175,,Internal Medicine,Respiratory,Rawat Jalan,2026-03-05,145/77,37.0,59.7,149.3,34,12,355000,5
+V0213,P0085,Ani Handayani,female,,O,Cardiology,CARDIOVASCULAR,RAWAT INAP,2026-03-05,143/75,37.0,53.7,161.7,7,20,6470000,5
+V0214,P0125,Fajar Hidayat,Laki-laki,35,O,Dermatology,SKIN DISORDER,Rawat Jalan,2026-03-05,118/77,36.7,,166.8,17,10,381000,4
+V0215,P0232,Imam Sulistyo,Male,48,N/A,Cardiologi, cardiovascular,Rawat Jalan,2026-03-05,139/92,36.2,53.4,155.8,20,18,431000,5
+V0216,P0270,Imam Zulkarnain,Male,1,AB,Pediatrics,Gastrointestinal,Rawat inap,2026-03-05,97/62,36.7,9.5,73.2,8,57,3297000,5
+V0217,P0034,Budi Darmawan,Male,72,A,internal medicine,Metabolic/Endocrine ,Rawat Jln,2026-03-06,141/84  ,36.9,87.4,,84,18,418000,3
+V0218,P0101,Joko Zulkarnain,MALE,35,O,Internal Medicine   ,Gastrointestinal,Rawat Jalan ,2026-03-06,121/82,36.8,76.7,166.3,18,17,406000,3
+V0219,P0154,Hadi Saputra,Male,37,AB,Internal Medicine,Infectious Diseas,RAWAT JALAN,2026-03-06,121/82,38.7,47.8,169.2,24,23,473000,4
+V0220,P0161,Ayu Santoso ,female,10,b,PEDIATRICS,Respiratory,Rawat Jalan,2026-03-06,108/70,37.9,29.6,129.4,69,14,312000,2
+V0221,P0076,ANI PERMANA,female,77,A,Internal Medicine,Infectious Disease,Rawat Jalan,2026-03-07,153/83,38.5,52.4,151.3,74,21,404000,2
+V0222,P0110,Indah Anggraini,female,41,B,Obstetrics,MATERNAL HEALTH,Rawat Inap,2026-03-07,115/84,37.0,47.2,144.2,31,29,13572000,4
+V0223,P0137,Galih Sulistyo,m,36,O,Orthopedics,Musculoskeletel,Rawat jalan,2026-03-07,120/78,36.8,75.4,168.1,45,18,441000,4
+V0224,P0170, Nur Julianto,f,42,O,Internal Medicine,Respiratory,Rawat Jalan,2026-03-07,-,37.5,58.5,160.5,48,14,397000,3
+V0225,P0229,Budi Irawan,Male,43,B,DERMATOLOGY,Skin Disorder,RAWAT JALAN,2026-03-07,132/80,36.8,82.2,175.8,50,13,347000,
+V0226,P0031,Rangga Zulkarnain,Laki-laki,69,A,Cardiologi,Cardiovascular,Rawat Jalan,2026-03-09,142/91,15.0,54.2,149.3,44,8,482000,2
+V0227,P0051,Rina Widodo , f,77,O,Nerology,Neurological,Rawat Jalan,2026-03-09,139/81,36.6,50.1,143.4,7,19,610000,4
+V0228,P0208,Arif Aditya,m,12,O,ent,ENT disorder,Rawat Jalan,2026-03-09,100/70,370.0,35.0,144.2,44,21,392000,4
+V0229,P0278,Bambang Rachman,M,38,A,Penyakit Dalam,gastrointestinal,rawat jalan,2026-03-09,111/76,36.8,59.7,165.7,40,13,384000,3
+V0230,P0299,Nia Rahmawati,Female,15,A,Cardiology,-,Rawat inap  ,2026-03-09,129/82,36.8,44.3,159.0,39,33,12376000,5
+V0231,P0056,Wulan Purnomo,FEMALE,,a,Orthopaedics,Musculoskeletal ,Rawat Inap,2026-03-10,111/75,36.6,77.8,162.8,5,43,12164000,5
+V0232,P0217,Yuni Wibowo,FEMALE,49,B,Orthopedics,Musculoskeletal,Rawat Jln,2026-03-10,107/82,36.8,68.4,163.9,37,11,403000,3
+V0233,P0263,Tika Suryanto,Female,34,B,-,Maternal health ,Rawat Inap,2026-03-10,96/71,36.7,,155.3,13,,12045000,4
+V0234,P0009,Ilham Wijaya,Laki-laki,15,a, CARDIOLOGY,Cardiovascular,Rawat Jalan,2026-03-11,140/83,36.4,48.1,155.9,55,20,415000,3
+V0235,P0107,Fajar Santoso,-,61,A,Penyakit Dalam,Infectious Disease,Rawat-Inap,2026-03-11,133/76,36.5,70.5,171.3,13,71,7844000,5
+V0236,P0245,Yusuf Mahendra,Laki-laki,25,AB,Neurology,Neurologic,Rawat Jalan,2026-03-11,,36.8,64.9,173.0,11,25,563000,5
+V0237,P0252,Yuni Widodo,F,11,a,THT,Respiratory,Rawat jalan,2026-03-11,97/64,38.3,30.0,,26,13,386000,4
+V0238,P0268,Fina Maulana,Perempuan,27,B   ,Dermatology,Skin Disorder,Rawat Jalan,2026-03-11,117/67,37.0,54.6,163.9,31,5,390000,4
+V0239,P0172,Wulan Hidayat,Perempuan,17,B,Cardiology,Cardiovascular,Rawat Jalan,2026-03-12,145/76,37.1,43.6,156.3,9,11,383000,5
+V0240,P0187,Fitri Firmansyah,f,52,,CARDIOLOGY,Cardiovascular,Rawat Jalan,2026-03-12,133/91,36.6,70.0,152.8,57,22,571000,4
+V0241,P0197,Wulan Susanto,Female,15,O,INTERNAL MEDICINE,infectious disease,RAWAT JALAN,2026-03-12,133/74,37.5,42.4,156.3,,15,473000,4
+V0242,P0294,Andi Saputra,Male,35,A,NEUROLOGY,Neurological,Rawat jalan,2026-03-12,111/74,36.5,75.0,177.9,25,9,525000,5
+V0243,P0078,Dimas Kurniawan  ,M ,5,b,Pediatrics,RESPIRATORY,rawat jalan,2026-03-13,99/57,36.8,14.0,89.6,37,12,337000,
+V0244,P0221,Teguh Mahendra,male,9,b,Penyakit Dalam   ,INFECTIOUS DISEASE,rawat jalan,2026-03-13,93/63,37.0,24.3,120.0,47,20,526000,4
+V0245,P0234,Indah Hakim,Female,34,A,INTERNAL MEDICINE,Infectious Disease,Rawat Jalan,2026-03-13,125/57,38.0,75.7,163.0,,16,472000,7
+V0246,P0250,Rani Basuki,FEMALE,22,b,Internal Medicine,INFECTIOUS DISEASE,Rawat Jalan   ,2026-03-13,112/64,37.1,54.0,154.6,32,19,391000,3
+V0247,P0106,Rudi Maulana,MALE,14,B,Nerology,Neurological,Rawat Inap,2026-03-14,129/75,37.0,,147.6,16,110,7085000,4
+V0248,P0186,Ani Kusuma,Female ,24,b,Dermatology,Skin Disorder,Rawat Jalan,2026-03-14,122/73,,56.8,154.4,11,7,279000,4
+V0249,P0049,  Intan Kusuma  ,Female,18,b,Penyakit Dalam,Gastrointestinal,Rawat-Jalan,2026-03-16,116/90,36.5,68.5,155.7,24,22,444000,-1
+V0250,P0104,intan kurniawan,Female,49,A,INTERNAL MEDICINE,Metabolic/Endocrine,Rawat Inap,2026-03-16,125/78,36.7,63.9,155.6,26,29,5707000,4
+V0251,P0136,Sri Cahyono,f,69,o,Cardiology,-,Rawat inap,2026-03-16,151/90,37.1,59.7,159.5,21,41,4155000,4
+V0252,P0144,Ratna Pratama,female,21,O,Internal Medicine,-,Rawat Jalan,2026-03-16,134/80,36.9,,151.6,38,21,411000,4
+V0253,P0223,Wati Rachman,f,31,B,Cardiology,,Rawat Jln  ,2026-03-16,150/84,36.1,41.8,146.7,-5,15,491000,4
+V0254,P0300,Indah Syahputra,Female,60,A,Internal Medicine,Infectious Disease,Rawat Jalan,2026-03-16,122/87,100.0,54.8,159.2,26,13,373000,5
+V0255,P0035,Sri Irawan,Female,9,A,Pediatrics,Skin Disorders,Rawat Jalan,2026-03-17,92/67,36.9,20.9,120.0,48,12,229000,3
+V0256,P0025,SLAMET MAHENDRA,male,70,AB ,ENT,ENT Disorder, RAWAT JALAN,2026-03-18,117/64,36.6,84.1,163.8,9,15,365000,4
+V0257,P0050,Bayu Wijaya,M,71,b,ent,ent disorder,Rawat Jalan,2026-03-18,125/90 mmHg,36.7,56.0,151.8,22,11,333000,4
+V0258,P0141,Eka Hartono,f,27,A,internal medicine ,Metabolic/Endocrine,Rawat-Inap,2026-03-18,-,36.9,58.1,141.6,52,25,3581000,4
+V0259,P0117,Dina Cahyono  ,FEMALE,37,o,cardiology,Cardiovascular ,rawat jalan,2026-03-19,130/93,36.5,63.8,152.0,22,14,740000,4
+V0260,P0120,Fitri Utami,Perempuan,40,0,Obstetrics,Maternal health,Rawat Jalan,2026-03-19,115/85,36.9,50.0,155.2,9,,478000,5
+V0261,P0165,Dina Kurniawan,female,15,B,E.N.T,ENT Disorder   ,Rawat Jalan,2026-03-19,129/72,36.5,48.3,159.0,14,12,394000,5
+V0262,P0286,Ratna Zulkarnain,f,54,B,ORTHOPEDICS   , Musculoskeletal,Rawat Inap,2026-03-19,123/87,36.1,54.4,160.2,6,25,4801000,4
+V0263,P0065,Wahyu Lestari,Male,59,a,Orthopedics,Musculoskeletal,Rawat inap,2026-03-20,122/85,36.8,63.2,,28,41,,5
+V0264,P0145,Hendra Hartono,Male,,O,Dermatology,Skin Disorder,Rawat Jalan,2026-03-20,122/71,36.3,59.4,158.6,28,10,380000,5
+V0265,P0183,Tika Julianto,Perempuan,52,o,Internal Medicine, Metabolic/Endocrine,Rawat Inap,2026-03-20,125/70,35.8,71.7,156.4,17,57,4516000,4
+V0266,P0061,Bayu Prasetyo,Male,31,B,Neurology,,Rawat Inap,2026-03-23,133/80,37.0,62.6,166.3,8,28,13522000,4
+V0267,P0284,Taufik Handayani,male,47,O,Internal Medicine,Gastrointestinal,RAWAT JALAN,2026-03-23,140/72,36.9,59.7,158.8,48,24,489000,3
+V0268,P0041,Fikri Cahyono,Male,59,A,ENT,Respiratory,Rawat Jalan,2026-03-24,107/82,37.5,91.6,173.0,27,10,478000,4
+V0269,P0247,Reza Prasetyo,male,38,O,Internal Medicine  ,Cardiovascular,Rawat Jln,2026-03-24,118/90,36.9,69.7,173.1,14,23,405000,4
+V0270,P0249,Putri Permana,FEMALE,60,O, internal medicine,Gastrointestinal,Rawat jalan,2026-03-24,128/87,36.4,60.5,166.0,,9,373000,4
+V0271,P0262,Sri Permana,f,39,B,Ortopedi,Musculoskeletal,Rawat jalan,2026-03-24,121/80,36.8,44.6,154.1,15,26,507000,4
+V0272,P0273,  BAYU CAHYONO  ,,36,A  ,Dermatology,Skin Disorder,Rawat-Jalan,2026-03-24,110 / 85,36.7,46.4,159.9,6,5,303000,5
+V0273,P0016,Budi Saputra,Laki-laki,77,B,ORTHOPEDICS,Musculoskeletal,Rawat Jalan,2026-03-25,137/91,36.6,68.3,164.4,41,16,950000000,4
+V0274,P0017,Wulan Pangestu,Female,29,o  ,Dermatology,SKIN DISORDER,Rawat Jalan ,2026-03-25,117 / 74,36.3,59.8,155.4,3,9,,4
+V0275,P0029,Sari Maulana,F,39,A,cardiology,Cardiovasculer,Rawat Inp,2026-03-25,137/85,36.6,50.4,143.4,13,34,32000000,5
+V0276,P0081,Galih Syahputra,Laki-laki,65,A,ENT,ent disorder,Rawat Jalan,2026-03-25,122/74,37.0,71.6,176.2,17,6,442000,4
+V0277,P0147,Ayu Rahmawati,Female,8,0,Pediatrics,skin disorder,Rawat Jalan,2026-03-25,110/53,101.3,22.0,114.1,39,8,289000,4
+V0278,P0199,Joko Hakim,Male,93,a,Penyakit Dalam,Metabolic,Rawat Jalan,2026-03-25,155/88,37.1,80.8,175.7,10,20,387000,4
+V0279,P0291,GALIH FIRMANSYAH,M,42,O,Neurology,neurological,Rawat Inap,2026-03-25,113/78,36.2,74.1,168.7,12,39,14105000,5
+V0280,P0004,Indra Gunawan,male,2,B  ,Pediatrics,RESPIRATORY,Rawat Jalan,2026-03-26,86/55,37.6,8.4,78.7,11,11,318000,5
+V0281,P0166,Indra Cahyono,M,29,B,Internal Medicine,Metabolic/Endocrine,Rawat Jalan,2026-03-26,111/71,36.5,57.3,168.8,87,16,353000,4
+V0282,P0182,Yuni Pangestu,F,41,O,ENT,Respiratory,Rawat Jalan,2026-03-26,114/84,36.8,58.5,153.9,22,5,340000,5
+V0283,P0194,Rizky Widodo,Male,69,0,Penyakit Dalam,Infectious Disease,Rawat-Jalan,2026-03-26,123/87,0.0,65.6,164.4,22,11,476000,4
+V0284,P0296,Lia Hakim,Female,3,O, PEDIATRICS,skin disorder,Rawat Jalan,2026-03-26,107/62,36.5,14.5,92.3,62,10,315000,3
+V0285,P0030,Citra Wijaya,Female,61,B,Orthopedics,Injury/Trauma,Rawat Jalan,2026-03-27,133/75,36.6,56.0,154.4,12,16,536000,4
+V0286,P0100,Dina Basuki,Female,60,b,ent,  respiratory  ,Rawat Jalan,2026-03-27, 121/69,,41.0,156.8,25,10,412000,4
+V0287,P0123,Rudi Suryanto,M,5,A,Paediatrics,Infectious Diseas, rawat jalan,2026-03-27,102-56,37.3,16.3,1.55,18,11,358000,4
+V0288,P0160,Rizky Julianto,Laki-laki,33,  B  ,Dermatologi,skin disorder,RAWAT JALAN,2026-03-27,107/77,36.3,76.1,,15,12,312000,4
+V0289,P0203,Fina Handayani,FEMALE,34,B,Orthopedics,Musculoskeletal,Rawat Jalan  ,2026-03-27,105/75  ,36.8,53.3,156.8,9,18,465000,4
+V0290,P0210,Novi Wibowo,Female,27,B,Obstetrik,maternal health   ,rawat inap,2026-03-27,115/80,36.6,38.1,500.0,9,51,13987000,5
+V0291,P0261,Dewi Wibowo,FEMALE,-10,B,Internal Medicine,Respiratori,Rawat Jalan,2026-03-27,124/79,36.6,48.7,140.1,41,15,370000,3
+V0292,P0059,Indah Prasetyo,Perempuan,28,B,internal medicine,CARDIOVASCULAR,Rawat jalan,2026-03-28,119/92,36.1,49.4,151.6,46,18,442000,4
+V0293,P0118,Hari Wibowo,,23,N/A,internal medicine,Infectious Disease,Rawat Jalan,2026-03-28,116/66,,64.1,170.0,37,18,480000,
+V0294,P0121,Sari Permana,-,96,O,Cardiologi,Cardiovascular,Rawat Inap,2026-03-28,155/81,36.2,61.6,153.0,14,51,9348000,5
+V0295,P0151,fina pratama,female,73,A, cardiology,Cardiovascular,rawat jalan,2026-03-28,157/99,36.5,56.7,162.3,29,25,,3
+V0296,P0171,Dedi Setiawan,m,17, O,Internal Medicine,GASTROINTESTINAL,Rawat Jalan,2026-03-28,125/72,36.7,52.5,167.2,24,25,-450000,5
+V0297,P0005,Lestari Wibowo,Female,64,B,Internal Medicine,Gastrointestinal,Rawat-Inap,2026-03-31,138/71 ,36.5,62.5,1.7,26,42,7133000,5
+V0298,P0027,Lia Irawan,Female,45,0,  Neurologi  ,Mental Health,Rawat Jalan,2026-03-31,119/79,36.5,60.2,160.4,27,14,422000,5
+V0299,P0181,Siti Zulkarnain,Female,999,B,CARDIOLOGY  ,Cardiovascular,RAWAT JALAN,2026-03-31,145-96,36.5,63.3,163.3,,21,518000,3
+V0300,P0228,Yuni Maulana,Female,27,a,Obstetrik,Maternal Health,Rawat-Jalan,2026-03-31,119/71,36.4,51.2,151.1,37,22,570000,4

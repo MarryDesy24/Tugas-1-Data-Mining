@@ -1,0 +1,88 @@
+DESKRIPSI KASUS
+Analisis Data Kunjungan Pasien dan Pelayanan Rumah Sakit
+Tugas 1 - Data Mining (Data Preprocessing)
+========================================================================
+
+1. LATAR BELAKANG KASUS
+Sebuah rumah sakit ingin menganalisis data kunjungan pasien untuk mengetahui pola kunjungan, karakteristik
+pasien, jenis pelayanan yang paling banyak digunakan, durasi pelayanan, serta biaya pengobatan.
+Data diperoleh dari beberapa bagian rumah sakit (pendaftaran pasien, poliklinik, laboratorium, dan
+administrasi pembayaran). Karena berasal dari banyak sumber, data memiliki berbagai permasalahan kualitas data
+seperti kesalahan input, penulisan tidak konsisten, spasi berlebihan, nilai tidak masuk akal, missing value,
+outlier, perbedaan satuan pengukuran, dan perbedaan tingkat agregasi.
+
+2. TUJUAN DATASET
+Dataset ini disiapkan sebagai bahan praktik preprocessing menggunakan Python (Pandas), meliputi:
+  a. Data Cleansing  : mistake during data entry, redundant whitespace, impossible value, missing value, outlier.
+  b. Data Transformation : normalization, discretization, measurement & aggregation.
+  c. Data Integration : joining table (inner join, left join) dan appending table (pd.concat).
+Seluruh data dalam kondisi AWAL (dirty): belum dibersihkan dan belum diperbaiki.
+
+3. SUMBER DATA (SINTETIS)
+Semua data dibangkitkan secara sintetis menggunakan program (generator acak dengan seed tetap) dan bersifat
+FIKTIF. Nama pasien, alamat, dan seluruh nilai pemeriksaan bukan identitas atau rekam medis pasien sungguhan.
+Kesamaan dengan orang atau kejadian nyata hanyalah kebetulan. Periode data: Januari - Mei 2026.
+Hubungan antarvariabel dibuat realistis, misalnya: poliklinik Pediatrics didominasi pasien usia anak,
+Obstetrics untuk pasien perempuan usia reproduktif, diagnosis mengikuti poliklinik, suhu tubuh lebih tinggi pada
+kasus infeksi/pernapasan, rawat inap memiliki biaya dan durasi jauh lebih besar, waktu tunggu berpengaruh pada
+tingkat kepuasan, serta berat badan mengikuti tinggi badan dan usia.
+
+4. DAFTAR FILE
+ 1. dataset_awal.csv        : dataset utama (300 baris, 18 variabel), memuat seluruh masalah data cleansing.
+ 2. data_pasien.csv         : tabel identitas pasien (280 baris) untuk praktik joining.
+ 3. data_kunjungan.csv      : tabel kunjungan pasien (320 baris) untuk praktik joining.
+ 4. pelayanan_menit.csv     : data pelayanan, durasi dalam MENIT (sumber SIMRS-Poliklinik).
+ 5. pelayanan_detik.csv     : data pelayanan, durasi dalam DETIK (sumber SIM-Penunjang).
+ 6. kunjungan_harian.csv    : agregasi kunjungan per HARI per poliklinik (1 Jan - 28 Feb 2026).
+ 7. kunjungan_mingguan.csv  : agregasi kunjungan per MINGGU per poliklinik (mulai 2 Mar 2026, 12 minggu).
+ 8. kunjungan_januari.csv   : kunjungan pasien bulan Januari 2026.
+ 9. kunjungan_februari.csv  : kunjungan pasien bulan Februari 2026.
+10. Deskripsi_Kasus.txt     : dokumen ini.
+
+5. DESKRIPSI VARIABEL - dataset_awal.csv
+Visit_ID              Kategorik  ID kunjungan pasien (primary key), contoh V0001.
+Patient_ID            Kategorik  ID unik pasien (primary key), contoh P0001.
+Patient_Name          Kategorik  Nama pasien fiktif.
+Gender                Kategorik  Jenis kelamin pasien.
+Age                   Numerik    Usia pasien (tahun).
+Blood_Type            Kategorik  Golongan darah (A, B, AB, O).
+Department            Kategorik  Poliklinik tujuan (Cardiology, Neurology, Orthopedics, Pediatrics,
+                                 Internal Medicine, Dermatology, ENT, Obstetrics).
+Diagnosis_Category    Kategorik  Kategori diagnosis.
+Visit_Type            Kategorik  Jenis kunjungan: Rawat Jalan atau Rawat Inap.
+Visit_Date            Tanggal    Tanggal kunjungan, format YYYY-MM-DD.
+Blood_Pressure        Kategorik  Tekanan darah (sistolik/diastolik, mmHg), berbentuk teks.
+Body_Temperature      Numerik    Suhu tubuh (derajat Celsius).
+Weight                Numerik    Berat badan (kg).
+Height                Numerik    Tinggi badan (cm).
+Waiting_Time          Numerik    Waktu tunggu (menit).
+Consultation_Duration Numerik    Durasi konsultasi (menit).
+Treatment_Cost        Numerik    Biaya pelayanan (Rupiah).
+Satisfaction_Score    Numerik    Tingkat kepuasan pasien (skala 1-5).
+
+6. DESKRIPSI TABEL PENDUKUNG
+data_pasien.csv
+  Patient_ID, Patient_Name, Gender, Age, Blood_Type, Address.
+data_kunjungan.csv, kunjungan_januari.csv, kunjungan_februari.csv  (struktur kolom identik)
+  Visit_ID, Patient_ID, Department, Diagnosis_Category, Visit_Type, Visit_Date, Waiting_Time (menit),
+  Treatment_Cost (Rupiah).
+  Kunci penghubung ke data_pasien: Patient_ID.
+pelayanan_menit.csv dan pelayanan_detik.csv  (struktur kolom identik)
+  Service_ID, Visit_ID, Patient_ID, Department, Service_Type, Service_Date, Service_Duration,
+  Service_Cost (Rupiah), Source_System.
+  Satuan Service_Duration: MENIT pada pelayanan_menit.csv dan DETIK pada pelayanan_detik.csv.
+kunjungan_harian.csv
+  Tanggal, Department, Jumlah_Kunjungan, Total_Biaya (Rupiah), Rata_Rata_Waktu_Tunggu (menit).
+  Satu baris = satu poliklinik pada satu hari.
+kunjungan_mingguan.csv
+  Minggu_Ke (nomor minggu ISO), Tanggal_Awal_Minggu (hari Senin), Department, Jumlah_Kunjungan,
+  Total_Biaya (Rupiah), Rata_Rata_Waktu_Tunggu (menit).
+  Satu baris = satu poliklinik pada satu minggu.
+
+7. CATATAN TEKNIS
+- Format: CSV, pemisah koma (,), encoding UTF-8 (hanya karakter ASCII), baris pertama adalah header.
+- Pandas : pd.read_csv("dataset_awal.csv")
+- Excel  : gunakan Data > From Text/CSV bila pemisah kolom tidak terbaca otomatis (pengaturan regional
+           Indonesia kadang memakai titik koma).
+- Sel kosong pada CSV dibaca sebagai NaN oleh Pandas.
+- Seluruh file sengaja TIDAK dibersihkan. Proses deteksi dan penanganan masalah data dikerjakan sendiri.

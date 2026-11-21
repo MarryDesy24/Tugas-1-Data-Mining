@@ -1,0 +1,191 @@
+Service_ID,Visit_ID,Patient_ID,Department,Service_Type,Service_Date,Service_Duration,Service_Cost,Source_System
+SD0001,VK0002,P0145,Dermatology,Laboratorium,2026-01-01,1369,277000,SIM-Penunjang
+SD0002,VK0010,P0297,Orthopedics,Laboratorium,2026-01-02,1351,306000,SIM-Penunjang
+SD0003,VK0006,P0106,ENT,Tindakan Medis,2026-01-02,1206,911000,SIM-Penunjang
+SD0004,VK0012,P0151,Cardiology,Radiologi,2026-01-02,1610,376000,SIM-Penunjang
+SD0005,VK0011,P0261,Neurology,Radiologi,2026-01-02,1351,321000,SIM-Penunjang
+SD0006,VK0013,P0219,Orthopedics,Radiologi,2026-01-03,1502,485000,SIM-Penunjang
+SD0007,VK0016,P0012,Neurology,Konsultasi Dokter,2026-01-05,746,141000,SIM-Penunjang
+SD0008,VK0021,P0069,Internal Medicine,Radiologi,2026-01-05,1728,533000,SIM-Penunjang
+SD0009,VK0015,P0264,Internal Medicine,Konsultasi Dokter,2026-01-05,777,175000,SIM-Penunjang
+SD0010,VK0020,P0267,Internal Medicine,Radiologi,2026-01-05,1051,431000,SIM-Penunjang
+SD0011,VK0019,P0014,Internal Medicine,Laboratorium,2026-01-05,1488,279000,SIM-Penunjang
+SD0012,VK0018,P0006,Orthopedics,Radiologi,2026-01-05,1058,381000,SIM-Penunjang
+SD0013,VK0022,P0111,Dermatology,Konsultasi Dokter,2026-01-05,1177,148000,SIM-Penunjang
+SD0014,VK0017,P0117,Orthopedics,Radiologi,2026-01-05,861,237000,SIM-Penunjang
+SD0015,VK0023,P0165,ENT,Laboratorium,2026-01-06,1422,335000,SIM-Penunjang
+SD0016,VK0027,P0167,Internal Medicine,Radiologi,2026-01-07,1706,594000,SIM-Penunjang
+SD0017,VK0030,P0225,Internal Medicine,Laboratorium,2026-01-07,1618,452000,SIM-Penunjang
+SD0018,VK0032,P0250,Obstetrics,Radiologi,2026-01-07,1406,534000,SIM-Penunjang
+SD0019,VK0037,P0105,Orthopedics,Radiologi,2026-01-09,1150,414000,SIM-Penunjang
+SD0020,VK0033,P0287,Internal Medicine,Laboratorium,2026-01-09,1980,166000,SIM-Penunjang
+SD0021,VK0036,P0177,Internal Medicine,Laboratorium,2026-01-09,791,159000,SIM-Penunjang
+SD0022,VK0041,P0288,Orthopedics,Laboratorium,2026-01-12,1573,369000,SIM-Penunjang
+SD0023,VK0047,P0156,Dermatology,Radiologi,2026-01-12,1925,472000,SIM-Penunjang
+SD0024,VK0040,P0059,Neurology,Laboratorium,2026-01-12,1756,241000,SIM-Penunjang
+SD0025,VK0045,P0247,Cardiology,Tindakan Medis,2026-01-12,1073,782000,SIM-Penunjang
+SD0026,VK0044,P0261,Cardiology,Laboratorium,2026-01-12,1485,287000,SIM-Penunjang
+SD0027,VK0042,P0199,Orthopedics,Laboratorium,2026-01-12,911,185000,SIM-Penunjang
+SD0028,VK0046,P0235,Pediatrics,Laboratorium,2026-01-12,2369,156000,SIM-Penunjang
+SD0029,VK0050,P0048,Internal Medicine,Radiologi,2026-01-13,1789,536000,SIM-Penunjang
+SD0030,VK0051,P0149,Internal Medicine,Radiologi,2026-01-13,1499,350000,SIM-Penunjang
+SD0031,VK0052,P0242,Pediatrics,Laboratorium,2026-01-14,1581,127000,SIM-Penunjang
+SD0032,VK0054,P0197,Internal Medicine,Radiologi,2026-01-14,1244,329000,SIM-Penunjang
+SD0033,VK0055,P0211,Internal Medicine,Laboratorium,2026-01-15,,374000,SIM-Penunjang
+SD0034,VK0058,P0017,Obstetrics,Laboratorium,2026-01-15,828,233000,SIM-Penunjang
+SD0035,VK0064,P0094,Dermatology,Tindakan Medis,2026-01-16,2920,745000,SIM-Penunjang
+SD0036,VK0063,P0232,Internal Medicine,Laboratorium,2026-01-16,2070,239000,SIM-Penunjang
+SD0037,VK0065,P0039,Orthopedics,Laboratorium,2026-01-16,,341000,SIM-Penunjang
+SD0038,VK0068,P0252,Pediatrics,Laboratorium,2026-01-18,459,324000,SIM-Penunjang
+SD0039,VK0069,P0228,Cardiology,Konsultasi Dokter,2026-01-18,1528,119000,SIM-Penunjang
+SD0040,VK0071,P0033,Internal Medicine,Radiologi,2026-01-19,1271,548000,SIM-Penunjang
+SD0041,VK0073,P0273,Dermatology,Radiologi,2026-01-20,1107,392000,SIM-Penunjang
+SD0042,VK0072,P0025,Dermatology,Laboratorium,2026-01-20,1891,434000,SIM-Penunjang
+SD0043,VK0074,P0229,Dermatology,Radiologi,2026-01-21,1164,414000,SIM-Penunjang
+SD0044,VK0075,P0058,Internal Medicine,Laboratorium,2026-01-22,1018,119000,SIM-Penunjang
+SD0045,VK0076,P0146,Cardiology,Tindakan Medis,2026-01-22,2201,1065000,SIM-Penunjang
+SD0046,VK0077,P0156,ENT,Konsultasi Dokter,2026-01-22,1347,121000,SIM-Penunjang
+SD0047,VK0080,P0258,Dermatology,Radiologi,2026-01-23,1523,316000,SIM-Penunjang
+SD0048,VK0079,P0221,Pediatrics,Laboratorium,2026-01-23,2614,254000,SIM-Penunjang
+SD0049,VK0081,P0017,Orthopedics,Tindakan Medis,2026-01-24,3181,1176000,SIM-Penunjang
+SD0050,VK0087,P0152,Dermatology,Tindakan Medis,2026-01-26,1954,1396000,SIM-Penunjang
+SD0051,VK0085,P0185,Cardiology,Laboratorium,2026-01-26,914,438000,SIM-Penunjang
+SD0052,VK0092,P0085,Internal Medicine,Laboratorium,2026-01-27,1645,204000,SIM-Penunjang
+SD0053,VK0093,P0288,Obstetrics,Tindakan Medis,2026-01-27,3136,872000,SIM-Penunjang
+SD0054,VK0088,P0022,Internal Medicine,Tindakan Medis,2026-01-27,3031,654000,SIM-Penunjang
+SD0055,VK0094,P0103,Internal Medicine,Radiologi,2026-01-27,1458,460000,SIM-Penunjang
+SD0056,VK0089,P0215,Obstetrics,Tindakan Medis,2026-01-27,2731,1050000,SIM-Penunjang
+SD0057,VK0095,P0073,Orthopedics,Laboratorium,2026-01-27,1765,427000,SIM-Penunjang
+SD0058,VK0097,P0083,Orthopedics,Radiologi,2026-01-28,1464,576000,SIM-Penunjang
+SD0059,VK0099,P0054,Pediatrics,Tindakan Medis,2026-01-29,4525,543000,SIM-Penunjang
+SD0060,VK0098,P0195,Dermatology,Radiologi,2026-01-29,597,319000,SIM-Penunjang
+SD0061,VK0100,P0207,Internal Medicine,Radiologi,2026-01-29,1566,388000,SIM-Penunjang
+SD0062,VK0101,P0294,Internal Medicine,Tindakan Medis,2026-01-29,4420,1732000,SIM-Penunjang
+SD0063,VK0103,P0295,Dermatology,Laboratorium,2026-01-30,976,426000,SIM-Penunjang
+SD0064,VK0106,P0218,Dermatology,Laboratorium,2026-01-30,1982,164000,SIM-Penunjang
+SD0065,VK0104,P0158,Internal Medicine,Laboratorium,2026-01-30,2011,409000,SIM-Penunjang
+SD0066,VK0107,P0099,Internal Medicine,Tindakan Medis,2026-01-31,2861,1223000,SIM-Penunjang
+SD0067,VK0110,P0093,Pediatrics,Laboratorium,2026-02-02,1808,298000,SIM-Penunjang
+SD0068,VK0109,P0019,Cardiology,Radiologi,2026-02-02,689,435000,SIM-Penunjang
+SD0069,VK0113,P0172,Neurology,Laboratorium,2026-02-03,1456,223000,SIM-Penunjang
+SD0070,VK0111,P0119,Orthopedics,Radiologi,2026-02-03,1473,743000,SIM-Penunjang
+SD0071,VK0118,P0232,ENT,Tindakan Medis,2026-02-04,3518,572000,SIM-Penunjang
+SD0072,VK0117,P0018,ENT,Laboratorium,2026-02-04,1852,375000,SIM-Penunjang
+SD0073,VK0116,P0196,Internal Medicine,Laboratorium,2026-02-04,487,387000,SIM-Penunjang
+SD0074,VK0124,P0169,Internal Medicine,Tindakan Medis,2026-02-05,3747,1041000,SIM-Penunjang
+SD0075,VK0123,P0101,ENT,Laboratorium,2026-02-05,1465,366000,SIM-Penunjang
+SD0076,VK0127,P0269,ENT,Tindakan Medis,2026-02-06,3834,807000,SIM-Penunjang
+SD0077,VK0126,P0269,Internal Medicine,Laboratorium,2026-02-06,1128,307000,SIM-Penunjang
+SD0078,VK0125,P0260,ENT,Tindakan Medis,2026-02-06,914,740000,SIM-Penunjang
+SD0079,VK0132,P0207,Orthopedics,Laboratorium,2026-02-06,1546,410000,SIM-Penunjang
+SD0080,VK0128,P0269,Obstetrics,Laboratorium,2026-02-06,1244,367000,SIM-Penunjang
+SD0081,VK0133,P0147,Pediatrics,Laboratorium,2026-02-09,1613,292000,SIM-Penunjang
+SD0082,VK0138,P0254,Internal Medicine,Radiologi,2026-02-10,2033,299000,SIM-Penunjang
+SD0083,VK0139,P0289,Dermatology,Laboratorium,2026-02-10,1476,244000,SIM-Penunjang
+SD0084,VK0146,P0114,Cardiology,Radiologi,2026-02-11,1759,264000,SIM-Penunjang
+SD0085,VK0140,P0117,Dermatology,Laboratorium,2026-02-11,1735,219000,SIM-Penunjang
+SD0086,VK0145,P0021,Dermatology,Laboratorium,2026-02-11,1458,223000,SIM-Penunjang
+SD0087,VK0143,P0089,Internal Medicine,Tindakan Medis,2026-02-11,4791,1430000,SIM-Penunjang
+SD0088,VK0148,P0051,Orthopedics,Radiologi,2026-02-12,2072,363000,SIM-Penunjang
+SD0089,VK0150,P0204,Internal Medicine,Tindakan Medis,2026-02-12,1341,709000,SIM-Penunjang
+SD0090,VK0147,P0059,Internal Medicine,Tindakan Medis,2026-02-12,3298,1379000,SIM-Penunjang
+SD0091,VK0149,P0164,Cardiology,Tindakan Medis,2026-02-12,1278,810000,SIM-Penunjang
+SD0092,VK0153,P0065,Internal Medicine,Radiologi,2026-02-13,,215000,SIM-Penunjang
+SD0093,VK0154,P0142,Cardiology,Radiologi,2026-02-13,1460,390000,SIM-Penunjang
+SD0094,VK0155,P0181,ENT,Laboratorium,2026-02-14,1664,363000,SIM-Penunjang
+SD0095,VK0158,P0292,Pediatrics,Laboratorium,2026-02-14,2395,355000,SIM-Penunjang
+SD0096,VK0156,P0133,Pediatrics,Radiologi,2026-02-14,904,446000,SIM-Penunjang
+SD0097,VK0159,P0031,Neurology,Laboratorium,2026-02-15,2029,133000,SIM-Penunjang
+SD0098,VK0160,P0187,Cardiology,Radiologi,2026-02-15,1873,427000,SIM-Penunjang
+SD0099,VK0163,P0123,Pediatrics,Tindakan Medis,2026-02-16,3526,929000,SIM-Penunjang
+SD0100,VK0162,P0239,Internal Medicine,Tindakan Medis,2026-02-16,2709,913000,SIM-Penunjang
+SD0101,VK0167,P0289,Neurology,Radiologi,2026-02-17,1155,746000,SIM-Penunjang
+SD0102,VK0164,P0036,Internal Medicine,Laboratorium,2026-02-17,1906,309000,SIM-Penunjang
+SD0103,VK0173,P0127,Orthopedics,Radiologi,2026-02-18,1501,678000,SIM-Penunjang
+SD0104,VK0174,P0284,Neurology,Laboratorium,2026-02-18,1406,354000,SIM-Penunjang
+SD0105,VK0171,P0235,Pediatrics,Radiologi,2026-02-18,978,460000,SIM-Penunjang
+SD0106,VK0172,P0016,Neurology,Laboratorium,2026-02-18,715,338000,SIM-Penunjang
+SD0107,VK0176,P0226,Internal Medicine,Tindakan Medis,2026-02-18,2340,1023000,SIM-Penunjang
+SD0108,VK0178,P0019,Obstetrics,Radiologi,2026-02-18,1135,484000,SIM-Penunjang
+SD0109,VK0170,P0044,Dermatology,Laboratorium,2026-02-18,656,211000,SIM-Penunjang
+SD0110,VK0181,P0147,Pediatrics,Konsultasi Dokter,2026-02-19,995,132000,SIM-Penunjang
+SD0111,VK0182,P0226,Cardiology,Laboratorium,2026-02-19,2375,266000,SIM-Penunjang
+SD0112,VK0183,P0031,Cardiology,Radiologi,2026-02-20,1768,465000,SIM-Penunjang
+SD0113,VK0185,P0181,Cardiology,Radiologi,2026-02-20,973,272000,SIM-Penunjang
+SD0114,VK0188,P0141,Orthopedics,Laboratorium,2026-02-21,2007,,SIM-Penunjang
+SD0115,VK0194,P0099,Internal Medicine,Laboratorium,2026-02-24,2631,326000,SIM-Penunjang
+SD0116,VK0193,P0035,Pediatrics,Laboratorium,2026-02-24,988,246000,SIM-Penunjang
+SD0117,VK0195,P0079,ENT,Laboratorium,2026-02-24,658,337000,SIM-Penunjang
+SD0118,VK0200,P0238,Pediatrics,Laboratorium,2026-02-25,1363,249000,SIM-Penunjang
+SD0119,VK0197,P0179,Cardiology,Radiologi,2026-02-25,816,280000,SIM-Penunjang
+SD0120,VK0196,P0299,Cardiology,Laboratorium,2026-02-25,680,515000,SIM-Penunjang
+SD0121,VK0199,P0082,Orthopedics,Konsultasi Dokter,2026-02-25,944,180000,SIM-Penunjang
+SD0122,VK0198,P0168,Orthopedics,Konsultasi Dokter,2026-02-25,1020,158000,SIM-Penunjang
+SD0123,VK0201,P0065,Internal Medicine,Radiologi,2026-02-25,1197,305000,SIM-Penunjang
+SD0124,VK0209,P0058,Dermatology,Laboratorium,2026-02-26,2067,,SIM-Penunjang
+SD0125,VK0203,P0015,Internal Medicine,Laboratorium,2026-02-26,1732,460000,SIM-Penunjang
+SD0126,VK0207,P0188,Neurology,Laboratorium,2026-02-26,1566,400000,SIM-Penunjang
+SD0127,VK0218,P0297,Dermatology,Radiologi,2026-02-27,831,403000,SIM-Penunjang
+SD0128,VK0217,P0043,Obstetrics,Radiologi,2026-02-27,1289,514000,SIM-Penunjang
+SD0129,VK0215,P0150,Neurology,Tindakan Medis,2026-02-27,3467,696000,SIM-Penunjang
+SD0130,VK0211,P0290,Internal Medicine,Radiologi,2026-02-27,1526,957000,SIM-Penunjang
+SD0131,VK0213,P0262,Dermatology,Radiologi,2026-02-27,1038,396000,SIM-Penunjang
+SD0132,VK0219,P0167,Internal Medicine,Laboratorium,2026-02-27,1539,252000,SIM-Penunjang
+SD0133,VK0223,P0099,ENT,Laboratorium,2026-03-02,1475,162000,SIM-Penunjang
+SD0134,VK0222,P0220,Internal Medicine,Radiologi,2026-03-02,1960,284000,SIM-Penunjang
+SD0135,VK0224,P0050,Internal Medicine,Laboratorium,2026-03-02,2173,294000,SIM-Penunjang
+SD0136,VK0227,P0088,Neurology,Tindakan Medis,2026-03-04,4053,791000,SIM-Penunjang
+SD0137,VK0230,P0120,Obstetrics,Radiologi,2026-03-05,804,490000,SIM-Penunjang
+SD0138,VK0234,P0216,Pediatrics,Laboratorium,2026-03-05,1211,269000,SIM-Penunjang
+SD0139,VK0231,P0167,Orthopedics,Laboratorium,2026-03-05,934,243000,SIM-Penunjang
+SD0140,VK0232,P0082,Internal Medicine,Radiologi,2026-03-05,1009,623000,SIM-Penunjang
+SD0141,VK0235,P0244,Internal Medicine,Laboratorium,2026-03-06,1253,240000,SIM-Penunjang
+SD0142,VK0236,P0286,Dermatology,Laboratorium,2026-03-06,2101,268000,SIM-Penunjang
+SD0143,VK0237,P0180,Internal Medicine,Konsultasi Dokter,2026-03-07,1106,184000,SIM-Penunjang
+SD0144,VK0238,P0106,Pediatrics,Radiologi,2026-03-09,1839,515000,SIM-Penunjang
+SD0145,VK0241,P0035,Pediatrics,Radiologi,2026-03-10,1090,474000,SIM-Penunjang
+SD0146,VK0245,P0005,Internal Medicine,Radiologi,2026-03-10,1414,215000,SIM-Penunjang
+SD0147,VK0252,P0138,Internal Medicine,Radiologi,2026-03-11,949,290000,SIM-Penunjang
+SD0148,VK0249,P0157,ENT,Radiologi,2026-03-11,1275,589000,SIM-Penunjang
+SD0149,VK0255,P0180,Cardiology,Tindakan Medis,2026-03-12,3176,538000,SIM-Penunjang
+SD0150,VK0256,P0015,Internal Medicine,Radiologi,2026-03-12,1487,740000,SIM-Penunjang
+SD0151,VK0254,P0176,Dermatology,Konsultasi Dokter,2026-03-12,814,256000,SIM-Penunjang
+SD0152,VK0257,P0170,Neurology,Konsultasi Dokter,2026-03-12,745,178000,SIM-Penunjang
+SD0153,VK0263,P0085,Orthopedics,Laboratorium,2026-03-13,2245,264000,SIM-Penunjang
+SD0154,VK0261,P0183,Internal Medicine,Tindakan Medis,2026-03-13,3010,1024000,SIM-Penunjang
+SD0155,VK0262,P0008,Orthopedics,Konsultasi Dokter,2026-03-13,676,158000,SIM-Penunjang
+SD0156,VK0258,P0209,Internal Medicine,Tindakan Medis,2026-03-13,2493,670000,SIM-Penunjang
+SD0157,VK0260,P0030,Neurology,Radiologi,2026-03-13,1814,355000,SIM-Penunjang
+SD0158,VK0264,P0189,Internal Medicine,Laboratorium,2026-03-14,2045,226000,SIM-Penunjang
+SD0159,VK0266,P0239,Cardiology,Tindakan Medis,2026-03-15,3389,492000,SIM-Penunjang
+SD0160,VK0269,P0175,Cardiology,Laboratorium,2026-03-16,1362,220000,SIM-Penunjang
+SD0161,VK0276,P0300,Neurology,Laboratorium,2026-03-17,2721,,SIM-Penunjang
+SD0162,VK0273,P0240,Orthopedics,Laboratorium,2026-03-17,1404,238000,SIM-Penunjang
+SD0163,VK0274,P0254,Internal Medicine,Laboratorium,2026-03-17,1645,157000,SIM-Penunjang
+SD0164,VK0272,P0014,Internal Medicine,Radiologi,2026-03-17,784,446000,SIM-Penunjang
+SD0165,VK0275,P0057,ENT,Laboratorium,2026-03-17,1061,342000,SIM-Penunjang
+SD0166,VK0270,P0234,Internal Medicine,Laboratorium,2026-03-17,1156,351000,SIM-Penunjang
+SD0167,VK0277,P0300,ENT,Tindakan Medis,2026-03-18,3342,2313000,SIM-Penunjang
+SD0168,VK0278,P0144,Internal Medicine,Radiologi,2026-03-18,1342,330000,SIM-Penunjang
+SD0169,VK0282,P0260,Cardiology,Laboratorium,2026-03-18,1246,237000,SIM-Penunjang
+SD0170,VK0289,P0125,Dermatology,Laboratorium,2026-03-19,1241,507000,SIM-Penunjang
+SD0171,VK0285,P0222,Obstetrics,Laboratorium,2026-03-19,870,231000,SIM-Penunjang
+SD0172,VK0287,P0296,Dermatology,Konsultasi Dokter,2026-03-19,1052,201000,SIM-Penunjang
+SD0173,VK0288,P0242,Pediatrics,Radiologi,2026-03-19,1576,512000,SIM-Penunjang
+SD0174,VK0284,P0057,Internal Medicine,Laboratorium,2026-03-19,2105,392000,SIM-Penunjang
+SD0175,VK0297,P0037,Pediatrics,Laboratorium,2026-03-23,1257,232000,SIM-Penunjang
+SD0176,VK0292,P0102,Internal Medicine,Radiologi,2026-03-23,1151,646000,SIM-Penunjang
+SD0177,VK0295,P0114,Cardiology,Tindakan Medis,2026-03-23,1224,1160000,SIM-Penunjang
+SD0178,VK0296,P0073,Internal Medicine,Laboratorium,2026-03-23,1119,224000,SIM-Penunjang
+SD0179,VK0298,P0237,Cardiology,Radiologi,2026-03-24,757,,SIM-Penunjang
+SD0180,VK0299,P0203,Internal Medicine,Laboratorium,2026-03-24,1361,359000,SIM-Penunjang
+SD0181,VK0302,P0085,ENT,Konsultasi Dokter,2026-03-25,464,193000,SIM-Penunjang
+SD0182,VK0303,P0039,Neurology,Laboratorium,2026-03-26,,241000,SIM-Penunjang
+SD0183,VK0304,P0077,Internal Medicine,Laboratorium,2026-03-26,2161,285000,SIM-Penunjang
+SD0184,VK0306,P0265,ENT,Radiologi,2026-03-26,1257,420000,SIM-Penunjang
+SD0185,VK0310,P0053,ENT,Konsultasi Dokter,2026-03-27,1073,169000,SIM-Penunjang
+SD0186,VK0309,P0158,Internal Medicine,Laboratorium,2026-03-27,941,388000,SIM-Penunjang
+SD0187,VK0312,P0156,Internal Medicine,Radiologi,2026-03-28,1058,170000,SIM-Penunjang
+SD0188,VK0315,P0274,Neurology,Radiologi,2026-03-30,1612,582000,SIM-Penunjang
+SD0189,VK0319,P0100,Neurology,Radiologi,2026-03-31,1271,196000,SIM-Penunjang
+SD0190,VK0320,P0186,Obstetrics,Konsultasi Dokter,2026-03-31,1096,181000,SIM-Penunjang

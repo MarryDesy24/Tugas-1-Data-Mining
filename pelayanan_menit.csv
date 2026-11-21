@@ -1,0 +1,191 @@
+Service_ID,Visit_ID,Patient_ID,Department,Service_Type,Service_Date,Service_Duration,Service_Cost,Source_System
+SM0001,VK0001,P0295,Internal Medicine,Farmasi,2026-01-01,10,140000,SIMRS-Poliklinik
+SM0002,VK0011,P0261,Neurology,Tindakan Medis,2026-01-02,26,1684000,SIMRS-Poliklinik
+SM0003,VK0008,P0211,Orthopedics,Konsultasi Dokter,2026-01-02,16,233000,SIMRS-Poliklinik
+SM0004,VK0005,P0281,Internal Medicine,Konsultasi Dokter,2026-01-02,10,158000,SIMRS-Poliklinik
+SM0005,VK0006,P0106,ENT,Tindakan Medis,2026-01-02,36,2175000,SIMRS-Poliklinik
+SM0006,VK0007,P0073,ENT,Konsultasi Dokter,2026-01-02,9,136000,SIMRS-Poliklinik
+SM0007,VK0013,P0219,Orthopedics,Farmasi,2026-01-03,12,183000,SIMRS-Poliklinik
+SM0008,VK0021,P0069,Internal Medicine,Konsultasi Dokter,2026-01-05,16,251000,SIMRS-Poliklinik
+SM0009,VK0016,P0012,Neurology,Farmasi,2026-01-05,9,58000,SIMRS-Poliklinik
+SM0010,VK0017,P0117,Orthopedics,Farmasi,2026-01-05,7,175000,SIMRS-Poliklinik
+SM0011,VK0015,P0264,Internal Medicine,Konsultasi Dokter,2026-01-05,16,262000,SIMRS-Poliklinik
+SM0012,VK0025,P0233,Internal Medicine,Farmasi,2026-01-06,10,118000,SIMRS-Poliklinik
+SM0013,VK0023,P0165,ENT,Farmasi,2026-01-06,8,148000,SIMRS-Poliklinik
+SM0014,VK0024,P0209,Cardiology,Tindakan Medis,2026-01-06,28,679000,SIMRS-Poliklinik
+SM0015,VK0029,P0162,Orthopedics,Konsultasi Dokter,2026-01-07,17,185000,SIMRS-Poliklinik
+SM0016,VK0031,P0099,Dermatology,Tindakan Medis,2026-01-07,42,810000,SIMRS-Poliklinik
+SM0017,VK0037,P0105,Orthopedics,Konsultasi Dokter,2026-01-09,5,81000,SIMRS-Poliklinik
+SM0018,VK0033,P0287,Internal Medicine,Farmasi,2026-01-09,11,189000,SIMRS-Poliklinik
+SM0019,VK0036,P0177,Internal Medicine,Tindakan Medis,2026-01-09,43,550000,SIMRS-Poliklinik
+SM0020,VK0035,P0259,Obstetrics,Tindakan Medis,2026-01-09,52,982000,SIMRS-Poliklinik
+SM0021,VK0039,P0248,Orthopedics,Konsultasi Dokter,2026-01-10,12,299000,SIMRS-Poliklinik
+SM0022,VK0045,P0247,Cardiology,Konsultasi Dokter,2026-01-12,18,166000,SIMRS-Poliklinik
+SM0023,VK0048,P0068,Cardiology,Konsultasi Dokter,2026-01-12,10,173000,SIMRS-Poliklinik
+SM0024,VK0047,P0156,Dermatology,Konsultasi Dokter,2026-01-12,14,163000,SIMRS-Poliklinik
+SM0025,VK0043,P0238,Pediatrics,Tindakan Medis,2026-01-12,37,1051000,SIMRS-Poliklinik
+SM0026,VK0042,P0199,Orthopedics,Farmasi,2026-01-12,7,152000,SIMRS-Poliklinik
+SM0027,VK0041,P0288,Orthopedics,Konsultasi Dokter,2026-01-12,18,202000,SIMRS-Poliklinik
+SM0028,VK0040,P0059,Neurology,Tindakan Medis,2026-01-12,15,1079000,SIMRS-Poliklinik
+SM0029,VK0046,P0235,Pediatrics,Farmasi,2026-01-12,11,185000,SIMRS-Poliklinik
+SM0030,VK0050,P0048,Internal Medicine,Konsultasi Dokter,2026-01-13,14,,SIMRS-Poliklinik
+SM0031,VK0049,P0195,Internal Medicine,Tindakan Medis,2026-01-13,52,1076000,SIMRS-Poliklinik
+SM0032,VK0051,P0149,Internal Medicine,Konsultasi Dokter,2026-01-13,19,399000,SIMRS-Poliklinik
+SM0033,VK0053,P0102,Dermatology,Konsultasi Dokter,2026-01-14,16,423000,SIMRS-Poliklinik
+SM0034,VK0054,P0197,Internal Medicine,Konsultasi Dokter,2026-01-14,11,189000,SIMRS-Poliklinik
+SM0035,VK0052,P0242,Pediatrics,Tindakan Medis,2026-01-14,51,872000,SIMRS-Poliklinik
+SM0036,VK0059,P0178,Neurology,Konsultasi Dokter,2026-01-15,17,174000,SIMRS-Poliklinik
+SM0037,VK0062,P0068,Neurology,Tindakan Medis,2026-01-15,39,1225000,SIMRS-Poliklinik
+SM0038,VK0055,P0211,Internal Medicine,Tindakan Medis,2026-01-15,36,824000,SIMRS-Poliklinik
+SM0039,VK0063,P0232,Internal Medicine,Farmasi,2026-01-16,12,132000,SIMRS-Poliklinik
+SM0040,VK0064,P0094,Dermatology,Farmasi,2026-01-16,15,215000,SIMRS-Poliklinik
+SM0041,VK0065,P0039,Orthopedics,Farmasi,2026-01-16,14,147000,SIMRS-Poliklinik
+SM0042,VK0066,P0150,Internal Medicine,Farmasi,2026-01-17,3,87000,SIMRS-Poliklinik
+SM0043,VK0067,P0262,Neurology,Farmasi,2026-01-17,,197000,SIMRS-Poliklinik
+SM0044,VK0068,P0252,Pediatrics,Farmasi,2026-01-18,11,182000,SIMRS-Poliklinik
+SM0045,VK0069,P0228,Cardiology,Farmasi,2026-01-18,9,123000,SIMRS-Poliklinik
+SM0046,VK0071,P0033,Internal Medicine,Konsultasi Dokter,2026-01-19,18,230000,SIMRS-Poliklinik
+SM0047,VK0073,P0273,Dermatology,Tindakan Medis,2026-01-20,47,912000,SIMRS-Poliklinik
+SM0048,VK0074,P0229,Dermatology,Konsultasi Dokter,2026-01-21,,150000,SIMRS-Poliklinik
+SM0049,VK0075,P0058,Internal Medicine,Konsultasi Dokter,2026-01-22,8,167000,SIMRS-Poliklinik
+SM0050,VK0080,P0258,Dermatology,Tindakan Medis,2026-01-23,59,,SIMRS-Poliklinik
+SM0051,VK0078,P0184,Obstetrics,Tindakan Medis,2026-01-23,33,895000,SIMRS-Poliklinik
+SM0052,VK0087,P0152,Dermatology,Farmasi,2026-01-26,13,129000,SIMRS-Poliklinik
+SM0053,VK0085,P0185,Cardiology,Farmasi,2026-01-26,15,179000,SIMRS-Poliklinik
+SM0054,VK0084,P0133,Internal Medicine,Farmasi,2026-01-26,12,145000,SIMRS-Poliklinik
+SM0055,VK0095,P0073,Orthopedics,Konsultasi Dokter,2026-01-27,8,165000,SIMRS-Poliklinik
+SM0056,VK0093,P0288,Obstetrics,Farmasi,2026-01-27,6,112000,SIMRS-Poliklinik
+SM0057,VK0091,P0099,Neurology,Tindakan Medis,2026-01-27,63,1131000,SIMRS-Poliklinik
+SM0058,VK0090,P0195,Internal Medicine,Konsultasi Dokter,2026-01-27,12,216000,SIMRS-Poliklinik
+SM0059,VK0088,P0022,Internal Medicine,Farmasi,2026-01-27,7,124000,SIMRS-Poliklinik
+SM0060,VK0097,P0083,Orthopedics,Konsultasi Dokter,2026-01-28,18,201000,SIMRS-Poliklinik
+SM0061,VK0096,P0047,Internal Medicine,Farmasi,2026-01-28,13,164000,SIMRS-Poliklinik
+SM0062,VK0101,P0294,Internal Medicine,Konsultasi Dokter,2026-01-29,17,136000,SIMRS-Poliklinik
+SM0063,VK0098,P0195,Dermatology,Konsultasi Dokter,2026-01-29,20,107000,SIMRS-Poliklinik
+SM0064,VK0104,P0158,Internal Medicine,Farmasi,2026-01-30,11,127000,SIMRS-Poliklinik
+SM0065,VK0102,P0289,ENT,Tindakan Medis,2026-01-30,67,978000,SIMRS-Poliklinik
+SM0066,VK0105,P0140,Dermatology,Konsultasi Dokter,2026-01-30,19,155000,SIMRS-Poliklinik
+SM0067,VK0107,P0099,Internal Medicine,Farmasi,2026-01-31,10,90000,SIMRS-Poliklinik
+SM0068,VK0108,P0215,Obstetrics,Konsultasi Dokter,2026-02-02,15,268000,SIMRS-Poliklinik
+SM0069,VK0110,P0093,Pediatrics,Farmasi,2026-02-02,7,90000,SIMRS-Poliklinik
+SM0070,VK0109,P0019,Cardiology,Konsultasi Dokter,2026-02-02,16,242000,SIMRS-Poliklinik
+SM0071,VK0113,P0172,Neurology,Tindakan Medis,2026-02-03,40,1487000,SIMRS-Poliklinik
+SM0072,VK0115,P0142,Orthopedics,Konsultasi Dokter,2026-02-03,12,167000,SIMRS-Poliklinik
+SM0073,VK0111,P0119,Orthopedics,Konsultasi Dokter,2026-02-03,26,149000,SIMRS-Poliklinik
+SM0074,VK0117,P0018,ENT,Farmasi,2026-02-04,6,157000,SIMRS-Poliklinik
+SM0075,VK0118,P0232,ENT,Farmasi,2026-02-04,13,183000,SIMRS-Poliklinik
+SM0076,VK0116,P0196,Internal Medicine,Tindakan Medis,2026-02-04,46,578000,SIMRS-Poliklinik
+SM0077,VK0119,P0249,Orthopedics,Konsultasi Dokter,2026-02-04,12,148000,SIMRS-Poliklinik
+SM0078,VK0124,P0169,Internal Medicine,Konsultasi Dokter,2026-02-05,7,103000,SIMRS-Poliklinik
+SM0079,VK0122,P0146,Internal Medicine,Konsultasi Dokter,2026-02-05,19,189000,SIMRS-Poliklinik
+SM0080,VK0120,P0150,ENT,Konsultasi Dokter,2026-02-05,18,109000,SIMRS-Poliklinik
+SM0081,VK0121,P0273,Neurology,Konsultasi Dokter,2026-02-05,14,135000,SIMRS-Poliklinik
+SM0082,VK0123,P0101,ENT,Konsultasi Dokter,2026-02-05,26,79000,SIMRS-Poliklinik
+SM0083,VK0125,P0260,ENT,Konsultasi Dokter,2026-02-06,20,181000,SIMRS-Poliklinik
+SM0084,VK0132,P0207,Orthopedics,Tindakan Medis,2026-02-06,32,1044000,SIMRS-Poliklinik
+SM0085,VK0129,P0260,Neurology,Farmasi,2026-02-06,8,207000,SIMRS-Poliklinik
+SM0086,VK0131,P0047,Orthopedics,Konsultasi Dokter,2026-02-06,14,215000,SIMRS-Poliklinik
+SM0087,VK0130,P0138,Internal Medicine,Tindakan Medis,2026-02-06,58,844000,SIMRS-Poliklinik
+SM0088,VK0136,P0139,Dermatology,Tindakan Medis,2026-02-10,57,630000,SIMRS-Poliklinik
+SM0089,VK0135,P0213,Internal Medicine,Konsultasi Dokter,2026-02-10,9,401000,SIMRS-Poliklinik
+SM0090,VK0138,P0254,Internal Medicine,Konsultasi Dokter,2026-02-10,,362000,SIMRS-Poliklinik
+SM0091,VK0137,P0220,Internal Medicine,Tindakan Medis,2026-02-10,37,483000,SIMRS-Poliklinik
+SM0092,VK0142,P0149,Internal Medicine,Tindakan Medis,2026-02-11,54,988000,SIMRS-Poliklinik
+SM0093,VK0141,P0039,Internal Medicine,Farmasi,2026-02-11,13,153000,SIMRS-Poliklinik
+SM0094,VK0146,P0114,Cardiology,Konsultasi Dokter,2026-02-11,17,217000,SIMRS-Poliklinik
+SM0095,VK0144,P0265,Internal Medicine,Farmasi,2026-02-11,6,173000,SIMRS-Poliklinik
+SM0096,VK0152,P0193,Obstetrics,Tindakan Medis,2026-02-12,64,947000,SIMRS-Poliklinik
+SM0097,VK0147,P0059,Internal Medicine,Konsultasi Dokter,2026-02-12,13,167000,SIMRS-Poliklinik
+SM0098,VK0153,P0065,Internal Medicine,Tindakan Medis,2026-02-13,42,678000,SIMRS-Poliklinik
+SM0099,VK0154,P0142,Cardiology,Tindakan Medis,2026-02-13,49,1092000,SIMRS-Poliklinik
+SM0100,VK0156,P0133,Pediatrics,Konsultasi Dokter,2026-02-14,14,190000,SIMRS-Poliklinik
+SM0101,VK0158,P0292,Pediatrics,Konsultasi Dokter,2026-02-14,11,231000,SIMRS-Poliklinik
+SM0102,VK0161,P0059,Dermatology,Tindakan Medis,2026-02-16,48,1065000,SIMRS-Poliklinik
+SM0103,VK0168,P0061,Internal Medicine,Konsultasi Dokter,2026-02-17,22,174000,SIMRS-Poliklinik
+SM0104,VK0167,P0289,Neurology,Farmasi,2026-02-17,6,103000,SIMRS-Poliklinik
+SM0105,VK0165,P0267,Internal Medicine,Konsultasi Dokter,2026-02-17,16,330000,SIMRS-Poliklinik
+SM0106,VK0177,P0229,Dermatology,Konsultasi Dokter,2026-02-18,13,216000,SIMRS-Poliklinik
+SM0107,VK0175,P0086,Internal Medicine,Konsultasi Dokter,2026-02-18,19,609000,SIMRS-Poliklinik
+SM0108,VK0173,P0127,Orthopedics,Konsultasi Dokter,2026-02-18,6,192000,SIMRS-Poliklinik
+SM0109,VK0171,P0235,Pediatrics,Konsultasi Dokter,2026-02-18,11,198000,SIMRS-Poliklinik
+SM0110,VK0170,P0044,Dermatology,Konsultasi Dokter,2026-02-18,11,282000,SIMRS-Poliklinik
+SM0111,VK0186,P0084,ENT,Farmasi,2026-02-20,8,117000,SIMRS-Poliklinik
+SM0112,VK0190,P0126,Cardiology,Tindakan Medis,2026-02-23,31,1566000,SIMRS-Poliklinik
+SM0113,VK0191,P0054,Pediatrics,Konsultasi Dokter,2026-02-23,16,185000,SIMRS-Poliklinik
+SM0114,VK0194,P0099,Internal Medicine,Konsultasi Dokter,2026-02-24,25,177000,SIMRS-Poliklinik
+SM0115,VK0193,P0035,Pediatrics,Tindakan Medis,2026-02-24,,1241000,SIMRS-Poliklinik
+SM0116,VK0192,P0235,Pediatrics,Farmasi,2026-02-24,13,165000,SIMRS-Poliklinik
+SM0117,VK0195,P0079,ENT,Farmasi,2026-02-24,13,137000,SIMRS-Poliklinik
+SM0118,VK0198,P0168,Orthopedics,Konsultasi Dokter,2026-02-25,11,160000,SIMRS-Poliklinik
+SM0119,VK0196,P0299,Cardiology,Farmasi,2026-02-25,14,297000,SIMRS-Poliklinik
+SM0120,VK0202,P0139,Obstetrics,Tindakan Medis,2026-02-25,27,816000,SIMRS-Poliklinik
+SM0121,VK0199,P0082,Orthopedics,Konsultasi Dokter,2026-02-25,11,159000,SIMRS-Poliklinik
+SM0122,VK0209,P0058,Dermatology,Farmasi,2026-02-26,8,136000,SIMRS-Poliklinik
+SM0123,VK0204,P0261,Neurology,Konsultasi Dokter,2026-02-26,15,157000,SIMRS-Poliklinik
+SM0124,VK0203,P0015,Internal Medicine,Konsultasi Dokter,2026-02-26,16,79000,SIMRS-Poliklinik
+SM0125,VK0206,P0098,Cardiology,Konsultasi Dokter,2026-02-26,9,186000,SIMRS-Poliklinik
+SM0126,VK0208,P0011,Neurology,Tindakan Medis,2026-02-26,59,769000,SIMRS-Poliklinik
+SM0127,VK0216,P0018,Internal Medicine,Tindakan Medis,2026-02-27,50,542000,SIMRS-Poliklinik
+SM0128,VK0218,P0297,Dermatology,Konsultasi Dokter,2026-02-27,16,249000,SIMRS-Poliklinik
+SM0129,VK0214,P0244,Internal Medicine,Konsultasi Dokter,2026-02-27,6,110000,SIMRS-Poliklinik
+SM0130,VK0212,P0071,Pediatrics,Konsultasi Dokter,2026-02-27,22,271000,SIMRS-Poliklinik
+SM0131,VK0219,P0167,Internal Medicine,Tindakan Medis,2026-02-27,71,713000,SIMRS-Poliklinik
+SM0132,VK0217,P0043,Obstetrics,Konsultasi Dokter,2026-02-27,12,178000,SIMRS-Poliklinik
+SM0133,VK0220,P0033,Neurology,Tindakan Medis,2026-02-28,50,709000,SIMRS-Poliklinik
+SM0134,VK0222,P0220,Internal Medicine,Konsultasi Dokter,2026-03-02,13,280000,SIMRS-Poliklinik
+SM0135,VK0221,P0162,Internal Medicine,Farmasi,2026-03-02,14,119000,SIMRS-Poliklinik
+SM0136,VK0224,P0050,Internal Medicine,Tindakan Medis,2026-03-02,51,1486000,SIMRS-Poliklinik
+SM0137,VK0223,P0099,ENT,Farmasi,2026-03-02,11,125000,SIMRS-Poliklinik
+SM0138,VK0225,P0001,Pediatrics,Farmasi,2026-03-03,10,155000,SIMRS-Poliklinik
+SM0139,VK0229,P0161,Pediatrics,Farmasi,2026-03-04,7,115000,SIMRS-Poliklinik
+SM0140,VK0228,P0068,Orthopedics,Konsultasi Dokter,2026-03-04,15,317000,SIMRS-Poliklinik
+SM0141,VK0232,P0082,Internal Medicine,Konsultasi Dokter,2026-03-05,11,152000,SIMRS-Poliklinik
+SM0142,VK0233,P0058,Internal Medicine,Tindakan Medis,2026-03-05,54,621000,SIMRS-Poliklinik
+SM0143,VK0231,P0167,Orthopedics,Tindakan Medis,2026-03-05,62,1230000,SIMRS-Poliklinik
+SM0144,VK0234,P0216,Pediatrics,Farmasi,2026-03-05,13,137000,SIMRS-Poliklinik
+SM0145,VK0235,P0244,Internal Medicine,Konsultasi Dokter,2026-03-06,9,102000,SIMRS-Poliklinik
+SM0146,VK0236,P0286,Dermatology,Farmasi,2026-03-06,6,157000,SIMRS-Poliklinik
+SM0147,VK0238,P0106,Pediatrics,Tindakan Medis,2026-03-09,60,1006000,SIMRS-Poliklinik
+SM0148,VK0240,P0059,Internal Medicine,Konsultasi Dokter,2026-03-09,15,155000,SIMRS-Poliklinik
+SM0149,VK0244,P0069,Dermatology,Konsultasi Dokter,2026-03-10,21,195000,SIMRS-Poliklinik
+SM0150,VK0241,P0035,Pediatrics,Konsultasi Dokter,2026-03-10,20,166000,SIMRS-Poliklinik
+SM0151,VK0248,P0287,Pediatrics,Farmasi,2026-03-11,10,233000,SIMRS-Poliklinik
+SM0152,VK0249,P0157,ENT,Konsultasi Dokter,2026-03-11,8,198000,SIMRS-Poliklinik
+SM0153,VK0250,P0185,Dermatology,Tindakan Medis,2026-03-11,59,1300000,SIMRS-Poliklinik
+SM0154,VK0255,P0180,Cardiology,Farmasi,2026-03-12,8,114000,SIMRS-Poliklinik
+SM0155,VK0253,P0258,Cardiology,Tindakan Medis,2026-03-12,49,1053000,SIMRS-Poliklinik
+SM0156,VK0256,P0015,Internal Medicine,Konsultasi Dokter,2026-03-12,16,188000,SIMRS-Poliklinik
+SM0157,VK0261,P0183,Internal Medicine,Konsultasi Dokter,2026-03-13,13,65000,SIMRS-Poliklinik
+SM0158,VK0260,P0030,Neurology,Tindakan Medis,2026-03-13,47,907000,SIMRS-Poliklinik
+SM0159,VK0259,P0101,ENT,Konsultasi Dokter,2026-03-13,10,203000,SIMRS-Poliklinik
+SM0160,VK0262,P0008,Orthopedics,Konsultasi Dokter,2026-03-13,12,98000,SIMRS-Poliklinik
+SM0161,VK0266,P0239,Cardiology,Tindakan Medis,2026-03-15,51,1806000,SIMRS-Poliklinik
+SM0162,VK0276,P0300,Neurology,Konsultasi Dokter,2026-03-17,13,,SIMRS-Poliklinik
+SM0163,VK0271,P0201,Internal Medicine,Konsultasi Dokter,2026-03-17,12,136000,SIMRS-Poliklinik
+SM0164,VK0274,P0254,Internal Medicine,Konsultasi Dokter,2026-03-17,15,190000,SIMRS-Poliklinik
+SM0165,VK0281,P0241,Internal Medicine,Tindakan Medis,2026-03-18,30,1068000,SIMRS-Poliklinik
+SM0166,VK0280,P0261,Cardiology,Tindakan Medis,2026-03-18,25,1031000,SIMRS-Poliklinik
+SM0167,VK0278,P0144,Internal Medicine,Konsultasi Dokter,2026-03-18,16,287000,SIMRS-Poliklinik
+SM0168,VK0277,P0300,ENT,Farmasi,2026-03-18,7,,SIMRS-Poliklinik
+SM0169,VK0290,P0180,Dermatology,Tindakan Medis,2026-03-19,30,466000,SIMRS-Poliklinik
+SM0170,VK0287,P0296,Dermatology,Farmasi,2026-03-19,12,192000,SIMRS-Poliklinik
+SM0171,VK0284,P0057,Internal Medicine,Konsultasi Dokter,2026-03-19,15,164000,SIMRS-Poliklinik
+SM0172,VK0286,P0098,Cardiology,Konsultasi Dokter,2026-03-19,23,118000,SIMRS-Poliklinik
+SM0173,VK0285,P0222,Obstetrics,Konsultasi Dokter,2026-03-19,9,176000,SIMRS-Poliklinik
+SM0174,VK0283,P0259,Internal Medicine,Farmasi,2026-03-19,15,47000,SIMRS-Poliklinik
+SM0175,VK0296,P0073,Internal Medicine,Farmasi,2026-03-23,7,144000,SIMRS-Poliklinik
+SM0176,VK0293,P0080,Orthopedics,Farmasi,2026-03-23,14,211000,SIMRS-Poliklinik
+SM0177,VK0294,P0020,Orthopedics,Konsultasi Dokter,2026-03-23,14,111000,SIMRS-Poliklinik
+SM0178,VK0297,P0037,Pediatrics,Konsultasi Dokter,2026-03-23,12,190000,SIMRS-Poliklinik
+SM0179,VK0300,P0022,ENT,Tindakan Medis,2026-03-24,59,721000,SIMRS-Poliklinik
+SM0180,VK0302,P0085,ENT,Farmasi,2026-03-25,11,120000,SIMRS-Poliklinik
+SM0181,VK0305,P0298,Cardiology,Konsultasi Dokter,2026-03-26,20,131000,SIMRS-Poliklinik
+SM0182,VK0303,P0039,Neurology,Konsultasi Dokter,2026-03-26,25,131000,SIMRS-Poliklinik
+SM0183,VK0311,P0033,Internal Medicine,Tindakan Medis,2026-03-27,41,957000,SIMRS-Poliklinik
+SM0184,VK0313,P0064,Internal Medicine,Konsultasi Dokter,2026-03-28,10,168000,SIMRS-Poliklinik
+SM0185,VK0312,P0156,Internal Medicine,Farmasi,2026-03-28,6,133000,SIMRS-Poliklinik
+SM0186,VK0314,P0122,Internal Medicine,Tindakan Medis,2026-03-30,58,964000,SIMRS-Poliklinik
+SM0187,VK0317,P0078,Dermatology,Konsultasi Dokter,2026-03-30,8,169000,SIMRS-Poliklinik
+SM0188,VK0316,P0266,Orthopedics,Farmasi,2026-03-30,8,190000,SIMRS-Poliklinik
+SM0189,VK0319,P0100,Neurology,Konsultasi Dokter,2026-03-31,17,180000,SIMRS-Poliklinik
+SM0190,VK0318,P0204,Cardiology,Konsultasi Dokter,2026-03-31,17,176000,SIMRS-Poliklinik

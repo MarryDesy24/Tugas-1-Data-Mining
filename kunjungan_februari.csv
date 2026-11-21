@@ -1,0 +1,63 @@
+Visit_ID,Patient_ID,Department,Diagnosis_Category,Visit_Type,Visit_Date,Waiting_Time,Treatment_Cost
+VF001,P0190,Orthopedics,Musculoskeletal,Rawat Inap,2026-02-01,13,4532000
+VF002,P0044,Pediatrics,Respiratory,Rawat Jalan,2026-02-02,25,337000
+VF003,P0220,orthopedics,Injury/Trauma,Rawat Jalan,2026-02-02,15,441000
+VF004,P0157,Dermatology,Skin Disorder,Rawat Jalan,2026-02-03,27,
+VF005,P0041,ENT,Respiratory,Rawat Inap,2026-02-03,9,4919000
+VF006,P0257,ENT,Respiratory,rawat jalan,2026-02-03,29,402000
+VF007,P0072,,Infectious Disease,Rawat Jalan,2026-02-04,97,464000
+VF008,P0298,Internal Medicine,Metabolic/Endocrine,Rawat Inap,2026-02-05,20,8199000
+VF009,P0144,Internal Medicine,,Rawat inap,2026-02-06,23,3263000
+VF010,P0146,Orthopedics,Musculoskeletal,Rawat Inap,2026-02-09,14,14297000
+VF011,P0056,Internal Medicine,Infectious Disease,Rawat Jalan,2026-02-10,31,376000
+VF012,P0265,Orthopedics,Musculoskeletal,Rawat Jalan,2026-02-11,22,605000
+VF013,P0091,Obstetrics,,Rawat Jalan,2026-02-11,11,394000
+VF014,P0102,Dermatology,Allergy,Rawat Jalan,2026-02-12,26,399000
+VF015,P0298,Neurology,Neurological,Rawat Jalan,2026-02-12,21,490000
+VF016,P0273,Cardiology,Metabolic/Endocrine,Rawat Jalan,2026-02-12,10,526000
+VF017,P0134,Dermatologi,Allergy,Rawat Jalan,2026-02-12,30,305000
+VF018,P0246,Orthopedics,Musculoskeletal,Rawat Inap,2026-02-12,10,7109000
+VF019,P0156,Internal Medicine,Cardiovascular,Rawat Inap,2026-02-12,11,9896000
+VF020,P0029,Internal Medicine,Gastrointestinal,Rawat Jalan,2026-02-13,38,331000
+VF021,P0232,Neurology,NEUROLOGICAL,Rawat jalan,2026-02-13,6,672000
+VF022,P0237,Neurology,Neurological,Rawat Jalan   ,2026-02-13,15,515000
+VF023,P0011,Neurology,Neurological,Rawat Jalan,2026-02-14,35,631000
+VF024,P0213,Internal Medicine,Metabolic/Endocrine,Rawat Inap,2026-02-16,31,7119000
+VF025,P0186,Obstetrics,Maternal Health,Rawat Inap,2026-02-16,,7570000
+VF026,P0172,Cardiology,Metabolic/Endocrine,Rawat Jalan,2026-02-16,52,605000
+VF027,P0095,Internal Medicine,Gastrointestinal,Rawat jalan,2026-02-17,79,419000
+VF028,P0177,Pediatrics,Respiratory,rawat jalan,2026-02-17,28,244000
+VF029,P0173,Pediatrics,Respiratory,,2026-02-17,38,288000
+VF030,P0189,Orthopedics,Musculoskeletal,Rawat Jalan  ,2026-02-17,12,379000
+VF031,P0136,INTERNAL   MEDICINE,RESPIRATORY,Rawat Jalan,2026-02-18,44,340000
+VF032,P0034,Cardiology,Cardiovascular,Rawat Jln,2026-02-18,37,
+VF033,P0107,Internal Medicine,Metabolic/Endocrine,Rawat-Inap,2026-02-18,10,7058000
+VF034,P0045,Internal Medicine,Infectious Disease,Rawat Jalan,2026-02-19,52,375000
+VF035,P0246,Cardiology,Cardiovascular,Rawat Inap,2026-02-19,25,8491000
+VF036,P0172,ENT,ENT Disorder,Rawat Jalan,2026-02-19,8,422000
+VF037,P0083,Internal Medicine,Gastrointestinal,Rawat Jalan,2026-02-19,46,426000
+VF038,P0266,Dermatology,allergy,RAWAT JALAN,2026-02-19,21,377000
+VF039,P0267,Internal Medicine,Metabolic/Endocrine,Rawat Jalan,2026-02-20,66,442000
+VF040,P0183,Internal Medicine,Gastrointestinal,Rawat Jalan,2026-02-20,22,473000
+VF041,P0169,Neurology,Neurological,Rawat Inap,2026-02-21,14,8704000
+VF042,P0100,Orthopedics,Musculoskeletal,Rawat Inap,2026-02-21,4,5103000
+VF043,P0153,Cardiology,Metabolic/Endocrine,Rawat Jalan,2026-02-23,20,683000
+VF044,P0020,Cardiology,Cardiovascular,Rawat Jalan,2026-02-23,33,620000
+VF045,P0046,Dermatolgy,Skin Disorder,Rawat Inap,2026-02-23,7,2690000
+VF046,P0126,Dermatology,Skin Disorder,Rawat Jalan,2026-02-23,37,370000
+VF047,P0074,Neurology,neurological,Rawat-Inap,2026-02-23,13,12181000
+VF048,P0063,Internal Medicine,Metabolic/Endocrine,Rawat Jalan,2026-02-23,11,465000
+VF049,P0063,Cardiology,Cardiovasculer,Rawat Jalan,2026-02-23,17,386000
+VF050,P0059,Cardilogy ,Metabolic/Endocrine,Rawat Jalan,2026-02-24,23,547000
+VF051,P0200,Neurologi,neurological,Rawat Jalan,2026-02-24,42,699000
+VF052,P0013,Dermatolgy,Skin Disorder,Rawat Jalan,2026-02-25,,301000
+VF053,P0265,Neurology,Neurologic,Rawat Jalan,2026-02-25,4,514000
+VF054,P0298,Ortopedi,Injury/Trauma,Rawat Jalan,2026-02-25,41,480000
+VF055,P0239,Neurology,Neurological,,2026-02-25,10,5946000
+VF056,P0163,Orthopedics,Musculoskeletal,Rawat Inap,2026-02-26,28,9647000
+VF057,P0249,Orthopedics,Musculoskeletal,Rawat Jalan,2026-02-26,3,589000
+VF058,P0262, Internal Medicine,Metabolic/Endocrine,Rawat Jalan,2026-02-27,5,330000
+VF059,P0143,,Metabolic/Endocrine,Rawat Jalan,2026-02-27,72,557000
+VF060,P0129,Pediatrics,Respiratory,Rawat Jalan,2026-02-27,6,270000
+VF061,P0126,Cardiology,Cardiovascular,Rawat Jalan,2026-02-27,23,515000
+VF062,P0017,Neurology,Neurological,Rawat Inap,2026-02-27,14,4612000
